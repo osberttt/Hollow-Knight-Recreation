@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: df5816ff617a8d24b8133b5b85e43b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8890121774543820503
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_0
+  - first:
+      213: -5946609453602837856
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_1
+  - first:
+      213: -3282375303326865262
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_2
+  - first:
+      213: -6370064626128590741
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_3
+  - first:
+      213: -8003871140530098659
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_4
+  - first:
+      213: 7066415496037137102
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_5
+  - first:
+      213: -3093556997622742320
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_6
+  - first:
+      213: 4947815186361205628
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_7
+  - first:
+      213: -7183007017191807179
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_8
+  - first:
+      213: -6988005162211909800
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_9
+  - first:
+      213: 5647778593683893914
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_10
+  - first:
+      213: 2536719161431598287
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_11
+  - first:
+      213: -9176236544824680905
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_12
+  - first:
+      213: -5797194645914013061
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_13
+  - first:
+      213: 7191954142941189778
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_14
+  - first:
+      213: 3690064070146379548
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_15
+  - first:
+      213: -7794023881976045047
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_16
+  - first:
+      213: 6684735559325186010
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_17
+  - first:
+      213: -6461704349048491144
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_18
+  - first:
+      213: 5526738133175171501
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_19
+  - first:
+      213: -2364441117731806726
+    second: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 616
+        width: 189
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a9521951ff9480800000000000000
+      internalID: -8890121774543820503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 615
+        width: 180
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae50c5536697da0800000000000000
+      internalID: -5946609453602837856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 615
+        width: 189
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298efa96d09a272d0800000000000000
+      internalID: -3282375303326865262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 311
+        width: 183
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68e25bf8fbf897a0800000000000000
+      internalID: -6370064626128590741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_4
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 543
+        width: 192
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee3b0aa998ce090800000000000000
+      internalID: -8003871140530098659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 189
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecafb944473f01260800000000000000
+      internalID: 7066415496037137102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 314
+        width: 190
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c5401d4a7115d0800000000000000
+      internalID: -3093556997622742320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 314
+        width: 189
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73c75582bb2aa440800000000000000
+      internalID: 4947815186361205628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 289
+        width: 181
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e421dc25d05c90800000000000000
+      internalID: -7183007017191807179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_9
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 227
+        width: 115
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f53c9345e950f90800000000000000
+      internalID: -6988005162211909800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 195
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e659e25b0f06e40800000000000000
+      internalID: 5647778593683893914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 191
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ae0023ac343320800000000000000
+      internalID: 2536719161431598287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1
+        width: 189
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e54c2fa7577a080800000000000000
+      internalID: -9176236544824680905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 189
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72bf743f2a3c8fa0800000000000000
+      internalID: -5797194645914013061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 191
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29698ea3034fec360800000000000000
+      internalID: 7191954142941189778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1
+        width: 189
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc18398bdb53330800000000000000
+      internalID: 3690064070146379548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_16
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1
+        width: 177
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90228e7e29016d390800000000000000
+      internalID: -7794023881976045047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1
+        width: 109
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7fffee293f4cc50800000000000000
+      internalID: 6684735559325186010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_18
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1
+        width: 105
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8733e5f412a6356a0800000000000000
+      internalID: -6461704349048491144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_19
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1
+        width: 91
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9f28adc0be2bc40800000000000000
+      internalID: 5526738133175171501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Health Plants (Group 0)-2048x1024-fmt4_20
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1
+        width: 85
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1a44da451df2fd0800000000000000
+      internalID: -2364441117731806726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

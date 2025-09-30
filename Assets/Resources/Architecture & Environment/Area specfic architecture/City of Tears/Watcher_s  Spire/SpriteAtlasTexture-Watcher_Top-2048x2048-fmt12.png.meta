@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 20e54f7d0a37f704da56da6061d581de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4034024208129496100
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_0
+  - first:
+      213: -7962484267787075021
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_1
+  - first:
+      213: 4353179967743873651
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_2
+  - first:
+      213: -8447721395090365119
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_3
+  - first:
+      213: -1104016446320513814
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_4
+  - first:
+      213: -3812688231062263432
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_5
+  - first:
+      213: 2401303707623378297
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_6
+  - first:
+      213: -6038380827332252963
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_7
+  - first:
+      213: 3942462653348168569
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_8
+  - first:
+      213: 905565984004068590
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_9
+  - first:
+      213: -1172516557075698012
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_10
+  - first:
+      213: -6800777197002055368
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_11
+  - first:
+      213: 7025234736847513157
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_12
+  - first:
+      213: 6397835800953557012
+    second: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1567
+        width: 664
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb6d1b1b544408c0800000000000000
+      internalID: -4034024208129496100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1811
+        width: 406
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324ae8deb29f7190800000000000000
+      internalID: -7962484267787075021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 813
+        width: 477
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37258b4dd1a996c30800000000000000
+      internalID: 4353179967743873651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 715
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145eb2c262aa3ca80800000000000000
+      internalID: -8447721395090365119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1348
+        width: 382
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec60e234eebda0f0800000000000000
+      internalID: -1104016446320513814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 581
+        width: 286
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a83c114c961bc0800000000000000
+      internalID: -3812688231062263432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 791
+        width: 309
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d48badff4235120800000000000000
+      internalID: 2401303707623378297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 995
+        width: 574
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae45851ac533ca0800000000000000
+      internalID: -6038380827332252963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1750
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973cf0925e076b630800000000000000
+      internalID: 3942462653348168569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 762
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45d3de677319c00800000000000000
+      internalID: 905565984004068590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1453
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae2d3257626abfe0800000000000000
+      internalID: -1172516557075698012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 0
+        width: 335
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831ad10eb29ce91a0800000000000000
+      internalID: -6800777197002055368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e78995c5ae7160800000000000000
+      internalID: 7025234736847513157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Top-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4101d1783cda9c850800000000000000
+      internalID: 6397835800953557012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

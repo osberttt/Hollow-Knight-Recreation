@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: 6b0d11f3ba49fbb44abc057a46637916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5860981878152287213
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_0
+  - first:
+      213: 2577093995984021096
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_1
+  - first:
+      213: -2360827181425056401
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_2
+  - first:
+      213: -6169564493886012412
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_3
+  - first:
+      213: 4766029118388893128
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_4
+  - first:
+      213: 6761174573852567561
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_5
+  - first:
+      213: 5091207663036237592
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_6
+  - first:
+      213: 7437666152272906838
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_7
+  - first:
+      213: 5955376874441562312
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_8
+  - first:
+      213: -6727330677637226813
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_9
+  - first:
+      213: 7822765882340156856
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_10
+  - first:
+      213: 1087585684296283556
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_11
+  - first:
+      213: -3984676086356998035
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_12
+  - first:
+      213: -1652545564114312624
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_13
+  - first:
+      213: -2735112672626787570
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_14
+  - first:
+      213: 7922716712914071488
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_15
+  - first:
+      213: 4397948086885930672
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_16
+  - first:
+      213: -4445062642055265563
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_17
+  - first:
+      213: -7023049514476315547
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_18
+  - first:
+      213: -1346321783193497174
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_19
+  - first:
+      213: -5040089402181113258
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_20
+  - first:
+      213: 3129201959375047884
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_21
+  - first:
+      213: -549929770510981902
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_22
+  - first:
+      213: -8270144400976297381
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_23
+  - first:
+      213: 3869037006800448846
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_24
+  - first:
+      213: 3796818334029538616
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_25
+  - first:
+      213: -7612671205458834361
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_26
+  - first:
+      213: 108608527642915073
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_27
+  - first:
+      213: -4937457274722638400
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_28
+  - first:
+      213: 8971964541770059582
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_29
+  - first:
+      213: -1765921844904616983
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_30
+  - first:
+      213: 3701580796890347194
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_31
+  - first:
+      213: -6171406113389024612
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_32
+  - first:
+      213: 3489612052163616947
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_33
+  - first:
+      213: 3506853549843216058
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_34
+  - first:
+      213: -8443720250454058681
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_35
+  - first:
+      213: -4818778175783195642
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_36
+  - first:
+      213: 5833405403570186989
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_37
+  - first:
+      213: 9027345346880036538
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_38
+  - first:
+      213: 4551126379280521836
+    second: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1198
+        width: 257
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2bbdd80c99aea0800000000000000
+      internalID: -5860981878152287213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1731
+        width: 731
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8666b67d55da3c320800000000000000
+      internalID: 2577093995984021096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1630
+        width: 359
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a21bcf28ac3fd0800000000000000
+      internalID: -2360827181425056401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1486
+        width: 140
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404cf03d7cd416aa0800000000000000
+      internalID: -6169564493886012412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1519
+        width: 112
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5fcbe4b36542240800000000000000
+      internalID: 4766029118388893128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1478
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908a2e2e37484dd50800000000000000
+      internalID: 6761174573852567561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1513
+        width: 512
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178509256a97a640800000000000000
+      internalID: 5091207663036237592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1523
+        width: 290
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a4c2485f5e73760800000000000000
+      internalID: 7437666152272906838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1579
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c85aa0e6bfb5a250800000000000000
+      internalID: 5955376874441562312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1292
+        width: 100
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce58d04468b3a2a0800000000000000
+      internalID: -6727330677637226813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1198
+        width: 477
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52ee98f1c009c60800000000000000
+      internalID: 7822765882340156856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1367
+        width: 92
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b747ea61e71f00800000000000000
+      internalID: 1087585684296283556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1326
+        width: 84
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6882bf063693b8c0800000000000000
+      internalID: -3984676086356998035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1306
+        width: 71
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a1d3a09af019e0800000000000000
+      internalID: -1652545564114312624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 919
+        width: 214
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3967f38dea0ad0800000000000000
+      internalID: -2735112672626787570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1381
+        width: 496
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf2b41cfd423fd60800000000000000
+      internalID: 7922716712914071488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1487
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6d173db76a80d30800000000000000
+      internalID: 4397948086885930672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 803
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2cfe7f317ff42c0800000000000000
+      internalID: -4445062642055265563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 105
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cd8a12dad198e90800000000000000
+      internalID: -7023049514476315547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1137
+        width: 603
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19167a877e05de0800000000000000
+      internalID: -1346321783193497174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1091
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aa8ca64610e0ab0800000000000000
+      internalID: -5040089402181113258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 877
+        width: 199
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc81035a982d6b20800000000000000
+      internalID: 3129201959375047884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 463
+        width: 359
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4e74199c14e58f0800000000000000
+      internalID: -549929770510981902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 290
+        width: 197
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b524f920c7b8a3d80800000000000000
+      internalID: -8270144400976297381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 295
+        width: 207
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d6e2d98a491b530800000000000000
+      internalID: 3869037006800448846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 863
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835658c882201b430800000000000000
+      internalID: 3796818334029538616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 291
+        width: 187
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c08ce4fdb5a5690800000000000000
+      internalID: -7612671205458834361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 803
+        width: 80
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101fbb561ead18100800000000000000
+      internalID: 108608527642915073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 467
+        width: 276
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c52d76b4c0aa7bb0800000000000000
+      internalID: -4937457274722638400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 317
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fca991732d28c70800000000000000
+      internalID: 8971964541770059582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 270
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb9b55307f2e77e0800000000000000
+      internalID: -1765921844904616983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1
+        width: 251
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67e0a7f18ae5330800000000000000
+      internalID: 3701580796890347194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 324
+        width: 243
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ae5ce56d2ca5aa0800000000000000
+      internalID: -6171406113389024612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 314
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b062253ca79d6030800000000000000
+      internalID: 3489612052163616947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 293
+        width: 252
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f8b539b8daa030800000000000000
+      internalID: 3506853549843216058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 182
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d9e04b21e1da80800000000000000
+      internalID: -8443720250454058681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1
+        width: 23
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ca905b7c2402db0800000000000000
+      internalID: -4818778175783195642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 167
+        width: 1085
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea25aece4b64f050800000000000000
+      internalID: 5833405403570186989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 444
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5f8993c2974d70800000000000000
+      internalID: 9027345346880036538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Colosseum_interior-2048x2048-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 148
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6adcec3459d82f30800000000000000
+      internalID: 4551126379280521836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2768 @@
+fileFormatVersion: 2
+guid: d429454f5d9dae842b799c426c2e1fd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8647682206212475461
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_0
+  - first:
+      213: 5600133495749569176
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_1
+  - first:
+      213: -8043045912626702126
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_2
+  - first:
+      213: -8020891674574020094
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_3
+  - first:
+      213: -795231532063928000
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_4
+  - first:
+      213: 1976459337449101775
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_5
+  - first:
+      213: -1460212170526737626
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_6
+  - first:
+      213: 9141533991984939663
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_7
+  - first:
+      213: 3316473333109857912
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_8
+  - first:
+      213: 3496057749254498013
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_9
+  - first:
+      213: -4011046603854179466
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_10
+  - first:
+      213: 5465860602350932828
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_11
+  - first:
+      213: 1349010088325636424
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_12
+  - first:
+      213: -463942369477661470
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_13
+  - first:
+      213: 6358927112820962599
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_14
+  - first:
+      213: 7532394794051006509
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_15
+  - first:
+      213: -4373110537830608108
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_16
+  - first:
+      213: 7761648563429109593
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_17
+  - first:
+      213: -5783690229083880406
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_18
+  - first:
+      213: -4242051087723042919
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_19
+  - first:
+      213: 345586786421440840
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_20
+  - first:
+      213: 8494680603718314844
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_21
+  - first:
+      213: -1079372828138426533
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_22
+  - first:
+      213: -9110627045155997325
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_23
+  - first:
+      213: 3457127110758588951
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_24
+  - first:
+      213: 277639223491372444
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_25
+  - first:
+      213: -8061908082477412256
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_26
+  - first:
+      213: -4095534986858903281
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_27
+  - first:
+      213: 2944303333735257046
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_28
+  - first:
+      213: 29207587144627957
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_29
+  - first:
+      213: 8358399029526691749
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_30
+  - first:
+      213: 1446977074868023502
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_31
+  - first:
+      213: -7436764811668566442
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_32
+  - first:
+      213: -3666591754477780793
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_33
+  - first:
+      213: 6689976446565865084
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_34
+  - first:
+      213: -2199643953897401346
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_35
+  - first:
+      213: 8475886015276052399
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_36
+  - first:
+      213: -3698841847784397748
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_37
+  - first:
+      213: -9035420694277954595
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_38
+  - first:
+      213: -5484274646265497554
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_39
+  - first:
+      213: -4103774012758640361
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_40
+  - first:
+      213: 667312940631002483
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_41
+  - first:
+      213: 985226377494035482
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_42
+  - first:
+      213: -8016579399433494210
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_43
+  - first:
+      213: -211523296506956629
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_44
+  - first:
+      213: 1092744585122943488
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_45
+  - first:
+      213: 239491719456302305
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_46
+  - first:
+      213: 2516421178067700087
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_47
+  - first:
+      213: -4596766910781730691
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_48
+  - first:
+      213: 6556726680082645526
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_49
+  - first:
+      213: -1451745349812852897
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_50
+  - first:
+      213: 7781719549059695508
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_51
+  - first:
+      213: -6697369703664210104
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_52
+  - first:
+      213: -7273980457632908724
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_53
+  - first:
+      213: 4475121023936170618
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_54
+  - first:
+      213: -3690968119908074156
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_55
+  - first:
+      213: 4854437361271716900
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_56
+  - first:
+      213: -1631212221715984798
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_57
+  - first:
+      213: -8113101742123445908
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_58
+  - first:
+      213: -1408337003896446692
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_59
+  - first:
+      213: -3715467411313473201
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_60
+  - first:
+      213: -487246655219161787
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_61
+  - first:
+      213: 1392872516181478237
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_62
+  - first:
+      213: 2032921446574049645
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_63
+  - first:
+      213: -7600319998954633650
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_64
+  - first:
+      213: 6699200216992236898
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_65
+  - first:
+      213: 3837220733115119168
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_66
+  - first:
+      213: 3628586127781391267
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_67
+  - first:
+      213: 4794170880014781205
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_68
+  - first:
+      213: -3558033629410688936
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_69
+  - first:
+      213: 5435160613837414507
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_70
+  - first:
+      213: 2315382984149627577
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_71
+  - first:
+      213: 3524262322016173054
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_72
+  - first:
+      213: -6948295636757560499
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_73
+  - first:
+      213: 1998107815490204241
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_74
+  - first:
+      213: 7538689936994225101
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_75
+  - first:
+      213: 3814626768741016006
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_76
+  - first:
+      213: 6020877890028197691
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_77
+  - first:
+      213: -334728397847567671
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_78
+  - first:
+      213: 6167215930619939166
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_79
+  - first:
+      213: 3436221330075628825
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_80
+  - first:
+      213: 3758521437727724050
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_81
+  - first:
+      213: 5951780608075046301
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_82
+  - first:
+      213: 1731153678866050695
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_83
+  - first:
+      213: 1804773840654619392
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_84
+  - first:
+      213: -6640659455881471513
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_85
+  - first:
+      213: -3176603680975254794
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_86
+  - first:
+      213: 4437053410641010836
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_87
+  - first:
+      213: 8712279393806968973
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_88
+  - first:
+      213: -3363177833956542490
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_89
+  - first:
+      213: 2819203328760038750
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_90
+  - first:
+      213: 8926525113844132235
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_91
+  - first:
+      213: 277611099817129219
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_92
+  - first:
+      213: 6038744422131866259
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_93
+  - first:
+      213: -815735477563403842
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_94
+  - first:
+      213: -4429531705059337072
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_95
+  - first:
+      213: -4504883014342663705
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_96
+  - first:
+      213: 639829415407564207
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_97
+  - first:
+      213: -3656324659744440882
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_98
+  - first:
+      213: 3341059555873901143
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_99
+  - first:
+      213: 8172643609683408665
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_100
+  - first:
+      213: -8979274126752745128
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_101
+  - first:
+      213: 844093141648690085
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_102
+  - first:
+      213: 2530745032516102257
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_103
+  - first:
+      213: -3056144644148199602
+    second: SpriteAtlasTexture-Abyss-2048x4096-fmt12_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3650
+        width: 113
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53d30d9d24df780800000000000000
+      internalID: -8647682206212475461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3551
+        width: 146
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6bec5ebba7bd40800000000000000
+      internalID: 5600133495749569176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3545
+        width: 50
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d85ab93b5c516090800000000000000
+      internalID: -8043045912626702126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3423
+        width: 140
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202a02bb48110b090800000000000000
+      internalID: -8020891674574020094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3387
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d3298225c6f4f0800000000000000
+      internalID: -795231532063928000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3490
+        width: 85
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc958a1bb4bcd6b10800000000000000
+      internalID: 1976459337449101775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3418
+        width: 23
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b3d0774c84cbbe0800000000000000
+      internalID: -1460212170526737626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3330
+        width: 39
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82cb665bb04dde70800000000000000
+      internalID: 9141533991984939663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3347
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e911fccea760e20800000000000000
+      internalID: 3316473333109857912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3086
+        width: 90
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6e092000e748030800000000000000
+      internalID: 3496057749254498013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3335
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6731cbf7d56e558c0800000000000000
+      internalID: -4011046603854179466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3266
+        width: 158
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531eea2243aadb40800000000000000
+      internalID: 5465860602350932828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3291
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84161192785a8b210800000000000000
+      internalID: 1349010088325636424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3290
+        width: 101
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ece70f7fdebf89f0800000000000000
+      internalID: -463942369477661470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3333
+        width: 121
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253b40a4827f3850800000000000000
+      internalID: 6358927112820962599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3089
+        width: 47
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2079672821788860800000000000000
+      internalID: 7532394794051006509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3110
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413d615b2279f43c0800000000000000
+      internalID: -4373110537830608108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3167
+        width: 270
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fec96de3ae6bb60800000000000000
+      internalID: 7761648563429109593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3231
+        width: 264
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24ce8441643cbfa0800000000000000
+      internalID: -5783690229083880406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3177
+        width: 18
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9976535d2053125c0800000000000000
+      internalID: -4242051087723042919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3171
+        width: 264
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84108bbe955cbc400800000000000000
+      internalID: 345586786421440840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2846
+        width: 154
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be709900b23e570800000000000000
+      internalID: 8494680603718314844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2852
+        width: 90
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fa99ea12c4501f0800000000000000
+      internalID: -1079372828138426533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2964
+        width: 156
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f86cf8fc809180800000000000000
+      internalID: -9110627045155997325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3051
+        width: 157
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71263246ace2aff20800000000000000
+      internalID: 3457127110758588951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2910
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c952beb176f5ad300800000000000000
+      internalID: 277639223491372444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3014
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060551410595e1090800000000000000
+      internalID: -8061908082477412256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2913
+        width: 144
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094717e0acb927c0800000000000000
+      internalID: -4095534986858903281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2875
+        width: 86
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d94e48444cd820800000000000000
+      internalID: 2944303333735257046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2786
+        width: 272
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f670805524c76000800000000000000
+      internalID: 29207587144627957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2826
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af78e5f1affef370800000000000000
+      internalID: 8358399029526691749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2662
+        width: 139
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec074a1bbf1b41410800000000000000
+      internalID: 1446977074868023502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2718
+        width: 200
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ece523ecd4bc890800000000000000
+      internalID: -7436764811668566442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2263
+        width: 194
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c9f9c936ad1dc0800000000000000
+      internalID: -3666591754477780793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2872
+        width: 145
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d945122297dc50800000000000000
+      internalID: 6689976446565865084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2626
+        width: 54
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31c976a7b4971e0800000000000000
+      internalID: -2199643953897401346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2633
+        width: 237
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafea397c6560a570800000000000000
+      internalID: 8475886015276052399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2696
+        width: 251
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44267ecfe21bacc0800000000000000
+      internalID: -3698841847784397748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2695
+        width: 156
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3695110ccbb9280800000000000000
+      internalID: -9035420694277954595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2769
+        width: 187
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28f9a22441f3e3b0800000000000000
+      internalID: -5484274646265497554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2740
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ba0337477c07c0800000000000000
+      internalID: -4103774012758640361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2429
+        width: 303
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d055c7595c24900800000000000000
+      internalID: 667312940631002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2568
+        width: 279
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c70ed9b2a3cad00800000000000000
+      internalID: 985226377494035482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2511
+        width: 325
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e316d0782836fb090800000000000000
+      internalID: -8016579399433494210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2526
+        width: 200
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4bbf9bea4801df0800000000000000
+      internalID: -211523296506956629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2236
+        width: 52
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021c7a19653a2f00800000000000000
+      internalID: 1092744585122943488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2378
+        width: 55
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e427d03378d25300800000000000000
+      internalID: 239491719456302305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2179
+        width: 186
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779cef79abf1ce220800000000000000
+      internalID: 2516421178067700087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2371
+        width: 276
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70d59f69d00530c0800000000000000
+      internalID: -4596766910781730691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2358
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61207af2d2c2efa50800000000000000
+      internalID: 6556726680082645526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2440
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f576418cb4d5adbe0800000000000000
+      internalID: -1451745349812852897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2243
+        width: 251
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4938a6753b83efb60800000000000000
+      internalID: 7781719549059695508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2328
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fa1ab1db92e03a0800000000000000
+      internalID: -6697369703664210104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2274
+        width: 289
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a38af1051ad0b90800000000000000
+      internalID: -7273980457632908724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2318
+        width: 260
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a099e6cd2da1e30800000000000000
+      internalID: 4475121023936170618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2083
+        width: 51
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d769fec0c07ccc0800000000000000
+      internalID: -3690968119908074156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3cf66f0d6e5340800000000000000
+      internalID: 4854437361271716900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2127
+        width: 314
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec75b7025cc59e0800000000000000
+      internalID: -1631212221715984798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2191
+        width: 173
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61112a53f8786f80800000000000000
+      internalID: -8113101742123445908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2031
+        width: 266
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e6b6e4f4947ce0800000000000000
+      internalID: -1408337003896446692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2035
+        width: 417
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ce162312007cc0800000000000000
+      internalID: -3715467411313473201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2179
+        width: 183
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5452aa5afb3fc39f0800000000000000
+      internalID: -487246655219161787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2060
+        width: 162
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc6687c2a745310800000000000000
+      internalID: 1392872516181478237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2058
+        width: 221
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c157e843663c10800000000000000
+      internalID: 2032921446574049645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1885
+        width: 309
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46030baa3d368690800000000000000
+      internalID: -7600319998954633650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1799
+        width: 257
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265ca0d7a1758fc50800000000000000
+      internalID: 6699200216992236898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1919
+        width: 259
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04637122deb804530800000000000000
+      internalID: 3837220733115119168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1881
+        width: 215
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abe15fabd35b5230800000000000000
+      internalID: 3628586127781391267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1899
+        width: 211
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b8dc7c301588240800000000000000
+      internalID: 4794170880014781205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1714
+        width: 84
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850051ce3435f9ec0800000000000000
+      internalID: -3558033629410688936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1942
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6029f418c19d6b40800000000000000
+      internalID: 5435160613837414507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1928
+        width: 39
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2f8318e84e12020800000000000000
+      internalID: 2315382984149627577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1725
+        width: 276
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb3117d8e1b8e030800000000000000
+      internalID: 3524262322016173054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1970
+        width: 137
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d434ba89ee1b29f90800000000000000
+      internalID: -6948295636757560499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1651
+        width: 365
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b935c874babb10800000000000000
+      internalID: 1998107815490204241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1360
+        width: 527
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4a565e8ece9860800000000000000
+      internalID: 7538689936994225101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1701
+        width: 317
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1218dd5d640f430800000000000000
+      internalID: 3814626768741016006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1559
+        width: 245
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37522f7a847e8350800000000000000
+      internalID: 6020877890028197691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1245
+        width: 321
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26f0eab4eca5bf0800000000000000
+      internalID: -334728397847567671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1496
+        width: 269
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e594bbda63a569550800000000000000
+      internalID: 6167215930619939166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1385
+        width: 522
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91537c40819efaf20800000000000000
+      internalID: 3436221330075628825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 781
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21293788553f82430800000000000000
+      internalID: 3758521437727724050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1265
+        width: 290
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d1f5ddde8f89250800000000000000
+      internalID: 5951780608075046301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1372
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eeb60591b460810800000000000000
+      internalID: 1731153678866050695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1306
+        width: 300
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d228fe38db0910800000000000000
+      internalID: 1804773840654619392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 534
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e998d99863a7d3a0800000000000000
+      internalID: -6640659455881471513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_86
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 500
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa854358cf6ae3d0800000000000000
+      internalID: -3176603680975254794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 916
+        width: 238
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49061b68194939d30800000000000000
+      internalID: 4437053410641010836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_88
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 337
+        height: 1034
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e1d3f2fb38e870800000000000000
+      internalID: 8712279393806968973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_89
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 868
+        width: 554
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e77d8234979351d0800000000000000
+      internalID: -3363177833956542490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 893
+        width: 128
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e554750ad72df1720800000000000000
+      internalID: 2819203328760038750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 848
+        width: 253
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b896849db4361eb70800000000000000
+      internalID: 8926525113844132235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 121
+        width: 85
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053e4e03d54ad300800000000000000
+      internalID: 277611099817129219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 686
+        width: 148
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9a8aae0eedc350800000000000000
+      internalID: 6038744422131866259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 324
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb15625b7eceda4f0800000000000000
+      internalID: -815735477563403842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 625
+        width: 135
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9b9602642782c0800000000000000
+      internalID: -4429531705059337072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 455
+        width: 313
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12a6f24c07b71c0800000000000000
+      internalID: -4504883014342663705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 95
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b63e967121e800800000000000000
+      internalID: 639829415407564207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 368
+        width: 90
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd7e601810224dc0800000000000000
+      internalID: -3656324659744440882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 230
+        width: 88
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ac941e6f3dd5e20800000000000000
+      internalID: 3341059555873901143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 482
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917bb0fff001b6170800000000000000
+      internalID: 8172643609683408665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 194
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859fb0681c5336380800000000000000
+      internalID: -8979274126752745128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab40597d32d6bb00800000000000000
+      internalID: 844093141648690085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1
+        width: 438
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178e438d2330f1320800000000000000
+      internalID: 2530745032516102257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Abyss-2048x4096-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 0
+        width: 320
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f755763a46695d0800000000000000
+      internalID: -3056144644148199602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

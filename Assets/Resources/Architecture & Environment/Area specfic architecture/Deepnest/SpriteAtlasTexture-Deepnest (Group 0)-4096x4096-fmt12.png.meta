@@ -1,0 +1,4893 @@
+fileFormatVersion: 2
+guid: 00b7188a5bfeab64aaf6e3c93d1b1e36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3173941602340914045
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_0
+  - first:
+      213: -8646246199279965706
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_1
+  - first:
+      213: 110834778611730509
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_2
+  - first:
+      213: -1495473998317962611
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_3
+  - first:
+      213: 7877214383007298778
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_4
+  - first:
+      213: 2695276309420297895
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_5
+  - first:
+      213: -8674445952323596688
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_6
+  - first:
+      213: 8087234669720064019
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_7
+  - first:
+      213: -2792617002574071445
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_8
+  - first:
+      213: -4926347334741887978
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_9
+  - first:
+      213: -88282199766127081
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_10
+  - first:
+      213: -927092102624002005
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_11
+  - first:
+      213: -3568040505823756814
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_12
+  - first:
+      213: -870600741570744998
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_13
+  - first:
+      213: 7991971530773046804
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_14
+  - first:
+      213: -6717761393367692829
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_15
+  - first:
+      213: -2199503855221067874
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_16
+  - first:
+      213: 9082371408605341265
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_17
+  - first:
+      213: -4515073565400923485
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_18
+  - first:
+      213: 3119498186141893866
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_19
+  - first:
+      213: 1500059692886562890
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_20
+  - first:
+      213: -2273825481233665839
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_21
+  - first:
+      213: 6163972342636602989
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_22
+  - first:
+      213: -6854612791533004190
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_23
+  - first:
+      213: 8950995199223588579
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_24
+  - first:
+      213: 384714554974881516
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_25
+  - first:
+      213: -7261226955410112985
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_26
+  - first:
+      213: 6859938959960392159
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_27
+  - first:
+      213: -727537986264104668
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_28
+  - first:
+      213: 1649079841387590506
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_29
+  - first:
+      213: -4195261475475138989
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_30
+  - first:
+      213: 2899641099459939828
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_31
+  - first:
+      213: -1929607888854844064
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_32
+  - first:
+      213: 1060868092454196131
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_33
+  - first:
+      213: 5377538262739067167
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_34
+  - first:
+      213: -1476451739052465947
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_35
+  - first:
+      213: -939809359670433363
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_36
+  - first:
+      213: -2748178922736089614
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_37
+  - first:
+      213: -1791020805365490174
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_38
+  - first:
+      213: -8501943256201417008
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_39
+  - first:
+      213: 5845918757154527260
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_40
+  - first:
+      213: -6343226902395546841
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_41
+  - first:
+      213: -4654750141379424450
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_42
+  - first:
+      213: 5599581084245403463
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_43
+  - first:
+      213: -6989664752593380885
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_44
+  - first:
+      213: -1125610404587945874
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_45
+  - first:
+      213: 8598227924922480294
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_46
+  - first:
+      213: -3233159183385478
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_47
+  - first:
+      213: 1986189482474782781
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_48
+  - first:
+      213: -2173414416319700019
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_49
+  - first:
+      213: 2518463293857673362
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_50
+  - first:
+      213: 5980973726510663847
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_51
+  - first:
+      213: 194796829217447233
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_52
+  - first:
+      213: 5070575264455906266
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_53
+  - first:
+      213: -3523898196834749548
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_54
+  - first:
+      213: -7869645016434399501
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_55
+  - first:
+      213: 3800486185664118204
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_56
+  - first:
+      213: -2833064133708135807
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_57
+  - first:
+      213: 1648899399447929463
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_58
+  - first:
+      213: 1546196794142243179
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_59
+  - first:
+      213: -6223550425873020930
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_60
+  - first:
+      213: 4242371857217413316
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_61
+  - first:
+      213: -4585174138429425042
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_62
+  - first:
+      213: -1910765055568464932
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_63
+  - first:
+      213: -8553073116580433481
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_64
+  - first:
+      213: -3898774024650309223
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_65
+  - first:
+      213: -6445554850931214129
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_66
+  - first:
+      213: -7136731401701162431
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_67
+  - first:
+      213: 1059352787464329059
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_68
+  - first:
+      213: 5496636703629193725
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_69
+  - first:
+      213: -2092735033950267165
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_70
+  - first:
+      213: -6281928875806902676
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_71
+  - first:
+      213: -8793337249805898934
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_72
+  - first:
+      213: -6206847103503650652
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_73
+  - first:
+      213: 2507233659015000032
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_74
+  - first:
+      213: 4692801409060774194
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_75
+  - first:
+      213: -6079152106921487207
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_76
+  - first:
+      213: 8622697191352823026
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_77
+  - first:
+      213: 546101583787208889
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_78
+  - first:
+      213: -8543080092694871346
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_79
+  - first:
+      213: -1483022065345608690
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_80
+  - first:
+      213: 2611524911202649639
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_81
+  - first:
+      213: -1479430181754837709
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_82
+  - first:
+      213: 862650340538360581
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_83
+  - first:
+      213: -8565155573042345350
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_84
+  - first:
+      213: 1029336925651393974
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_85
+  - first:
+      213: -705987386011037696
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_86
+  - first:
+      213: 987903003006848333
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_87
+  - first:
+      213: 2845272024615239191
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_88
+  - first:
+      213: 7090238840195850691
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_89
+  - first:
+      213: 6093345793826782042
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_90
+  - first:
+      213: -4075432912374992572
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_91
+  - first:
+      213: -7381317801744355494
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_92
+  - first:
+      213: -2925592490714989796
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_93
+  - first:
+      213: 2947780205716509941
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_94
+  - first:
+      213: -3944891607004024330
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_95
+  - first:
+      213: 1927047990030554270
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_96
+  - first:
+      213: -6580425482589721523
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_97
+  - first:
+      213: -8522836539743436209
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_98
+  - first:
+      213: 5139421889054101012
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_99
+  - first:
+      213: 4501936117761796862
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_100
+  - first:
+      213: -5059400883301962258
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_101
+  - first:
+      213: -1674127667739811712
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_102
+  - first:
+      213: -4115663924172676524
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_103
+  - first:
+      213: 7089890121982183974
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_104
+  - first:
+      213: 1954037328333042412
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_105
+  - first:
+      213: -6033814042417174293
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_106
+  - first:
+      213: 3644825769917215547
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_107
+  - first:
+      213: -4139772398176023093
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_108
+  - first:
+      213: 2918989261689074670
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_109
+  - first:
+      213: -6320196818193606500
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_110
+  - first:
+      213: -5279571251001012077
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_111
+  - first:
+      213: 3224601868913482913
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_112
+  - first:
+      213: -7169619455865441325
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_113
+  - first:
+      213: -1445360668513679343
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_114
+  - first:
+      213: 1746689892164062609
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_115
+  - first:
+      213: 5461069675277066631
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_116
+  - first:
+      213: 5670200230519468194
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_117
+  - first:
+      213: -4362643863571632776
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_118
+  - first:
+      213: 6159587499359514689
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_119
+  - first:
+      213: -8079541982785834322
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_120
+  - first:
+      213: -6574925497686987123
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_121
+  - first:
+      213: -8271405532563523200
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_122
+  - first:
+      213: -2563135253596182289
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_123
+  - first:
+      213: -1609932112289219838
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_124
+  - first:
+      213: 2026979749140814259
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_125
+  - first:
+      213: 6092487763231933632
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_126
+  - first:
+      213: 555838340104825301
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_127
+  - first:
+      213: 1892289859588058784
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_128
+  - first:
+      213: 3232864043084579127
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_129
+  - first:
+      213: 3663627061090831519
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_130
+  - first:
+      213: -1720339158091199437
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_131
+  - first:
+      213: -7168015945519998214
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_132
+  - first:
+      213: 9108077894771764772
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_133
+  - first:
+      213: 8121651599465071628
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_134
+  - first:
+      213: -4171989213864999799
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_135
+  - first:
+      213: -4609577398440337179
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_136
+  - first:
+      213: -6123020276644872085
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_137
+  - first:
+      213: -6604642996355852079
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_138
+  - first:
+      213: -4372490936877356082
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_139
+  - first:
+      213: -1457536443722894540
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_140
+  - first:
+      213: -4449182951626249517
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_141
+  - first:
+      213: 5917432357638039043
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_142
+  - first:
+      213: -8835079089120892548
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_143
+  - first:
+      213: 9122728588744737109
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_144
+  - first:
+      213: -580605770930048471
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_145
+  - first:
+      213: 6577536564666385978
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_146
+  - first:
+      213: 398960203769463069
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_147
+  - first:
+      213: 1609942995998159356
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_148
+  - first:
+      213: -5350462463164717573
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_149
+  - first:
+      213: -6035585190664999246
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_150
+  - first:
+      213: -5697094915085476325
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_151
+  - first:
+      213: 7348414994441875807
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_152
+  - first:
+      213: 7033082632741331927
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_153
+  - first:
+      213: -1744909846362966621
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_154
+  - first:
+      213: 7126056639191415134
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_155
+  - first:
+      213: -5462666083963979828
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_156
+  - first:
+      213: 562271519964543088
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_157
+  - first:
+      213: -5461063867850713376
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_158
+  - first:
+      213: 2273045301828195733
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_159
+  - first:
+      213: 3550761203834580706
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_160
+  - first:
+      213: 6549628920590351931
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_161
+  - first:
+      213: -5800071508287520337
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_162
+  - first:
+      213: -2424994644508989950
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_163
+  - first:
+      213: -5484336491047902492
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_164
+  - first:
+      213: 8237532532792503788
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_165
+  - first:
+      213: 6107747939415012987
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_166
+  - first:
+      213: -4058885984973305268
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_167
+  - first:
+      213: -3411494091937721198
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_168
+  - first:
+      213: -1351778787622452702
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_169
+  - first:
+      213: 7717890739811560412
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_170
+  - first:
+      213: 7707310114321904267
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_171
+  - first:
+      213: -5040271767567829259
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_172
+  - first:
+      213: -583140331365944522
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_173
+  - first:
+      213: 8977692241190899220
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_174
+  - first:
+      213: 4805615365095823722
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_175
+  - first:
+      213: -7270943746286633817
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_176
+  - first:
+      213: 5239800273695601362
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_177
+  - first:
+      213: -4209998877655934961
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_178
+  - first:
+      213: 8694649470120123312
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_179
+  - first:
+      213: 6198100432902045207
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_180
+  - first:
+      213: -3503485499664452804
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_181
+  - first:
+      213: -4140554230483655534
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_182
+  - first:
+      213: 6452951434903507120
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_183
+  - first:
+      213: -4729171860065143823
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_184
+  - first:
+      213: 4334168757370457498
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_185
+  - first:
+      213: 4427398000414402795
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_186
+  - first:
+      213: 3391800819101137655
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_187
+  - first:
+      213: -8069149146028428706
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_188
+  - first:
+      213: 1433951883875330669
+    second: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3660
+        width: 225
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d734d51321b1c0c20800000000000000
+      internalID: 3173941602340914045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3881
+        width: 378
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9a85b34ec520880800000000000000
+      internalID: -8646246199279965706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3905
+        width: 274
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4849e7d4a3c98100800000000000000
+      internalID: 110834778611730509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3639
+        width: 179
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8abc6762520f3be0800000000000000
+      internalID: -1495473998317962611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3707
+        width: 177
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad47fbefebc715d60800000000000000
+      internalID: 7877214383007298778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 3662
+        width: 356
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aec582f58b876520800000000000000
+      internalID: 2695276309420297895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 3901
+        width: 344
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e4d649d5d2e9780800000000000000
+      internalID: -8674445952323596688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3272
+        width: 145
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31053e78511ab3070800000000000000
+      internalID: 8087234669720064019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3711
+        width: 272
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b693bdfc1a1ae39d0800000000000000
+      internalID: -2792617002574071445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3797
+        width: 218
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147480333912abb0800000000000000
+      internalID: -4926347334741887978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3607
+        width: 167
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e23fa9ecb56cef0800000000000000
+      internalID: -88282199766127081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 3199
+        width: 84
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c60505ae4223f0800000000000000
+      internalID: -927092102624002005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3144
+        width: 422
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd7b227016cb7ec0800000000000000
+      internalID: -3568040505823756814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3543
+        width: 51
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5deb79fc310be3f0800000000000000
+      internalID: -870600741570744998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3542
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41623c293cf29ee60800000000000000
+      internalID: 7991971530773046804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3542
+        width: 43
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e94c7eda97b5c2a0800000000000000
+      internalID: -6717761393367692829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3542
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f227ba5eac971e0800000000000000
+      internalID: -2199503855221067874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3231
+        width: 274
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e518fca01b0e70800000000000000
+      internalID: 9082371408605341265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3294
+        width: 147
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2858f938c3751c0800000000000000
+      internalID: -4515073565400923485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3394
+        width: 222
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4867e821faa4b20800000000000000
+      internalID: 3119498186141893866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 3117
+        width: 718
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489260d75841d410800000000000000
+      internalID: 1500059692886562890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3205
+        width: 157
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f5d5a5cfb170e0800000000000000
+      internalID: -2273825481233665839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3419
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ef200034da8550800000000000000
+      internalID: 6163972342636602989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3419
+        width: 45
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a93dfbbf58fd0a0800000000000000
+      internalID: -6854612791533004190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3419
+        width: 44
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6e2f395b2583c70800000000000000
+      internalID: 8950995199223588579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3046
+        width: 211
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6433579d7c65500800000000000000
+      internalID: 384714554974881516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3418
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef9414e80fa3b90800000000000000
+      internalID: -7261226955410112985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2991
+        width: 289
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd14d497326633f50800000000000000
+      internalID: 6859938959960392159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3269
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42100206e0447e5f0800000000000000
+      internalID: -727537986264104668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3199
+        width: 295
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633a28e065b2e610800000000000000
+      internalID: 1649079841387590506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3159
+        width: 155
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3565c6e5aef67c5c0800000000000000
+      internalID: -4195261475475138989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3106
+        width: 145
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdce6d87389d3820800000000000000
+      internalID: 2899641099459939828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3003
+        width: 298
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df30d39d7a835e0800000000000000
+      internalID: -1929607888854844064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3162
+        width: 385
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3574cc8e5f8be00800000000000000
+      internalID: 1060868092454196131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2999
+        width: 399
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1122acfe8ad0aa40800000000000000
+      internalID: 5377538262739067167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2880
+        width: 334
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e025c547f6928be0800000000000000
+      internalID: -1476451739052465947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3101
+        width: 137
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a140ed5025f2f0800000000000000
+      internalID: -939809359670433363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2594
+        width: 558
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5891b84d18cd9d0800000000000000
+      internalID: -2748178922736089614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2961
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e1bd611140527e0800000000000000
+      internalID: -1791020805365490174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2626
+        width: 159
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de269957a7030a80800000000000000
+      internalID: -8501943256201417008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2838
+        width: 276
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181df9f220e02150800000000000000
+      internalID: 5845918757154527260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2568
+        width: 233
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72313097db458f7a0800000000000000
+      internalID: -6343226902395546841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2724
+        width: 195
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f41e88861076fb0800000000000000
+      internalID: -4654750141379424450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2689
+        width: 158
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a1790455b5bd40800000000000000
+      internalID: 5599581084245403463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2173
+        width: 189
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be95a9ab0f8bffe90800000000000000
+      internalID: -6989664752593380885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2308
+        width: 143
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604d0ffc470160f0800000000000000
+      internalID: -1125610404587945874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2697
+        width: 82
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a639da0eba035770800000000000000
+      internalID: 8598227924922480294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2475
+        width: 198
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c3f57757384fff0800000000000000
+      internalID: -3233159183385478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 2448
+        width: 95
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c68f9fcc509b10800000000000000
+      internalID: 1986189482474782781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2321
+        width: 147
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32d858a1b76d1e0800000000000000
+      internalID: -2173414416319700019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2493
+        width: 263
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2903f3ab50163f220800000000000000
+      internalID: 2518463293857673362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2631
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8cc9b6aefa00350800000000000000
+      internalID: 5980973726510663847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2651
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dd0e02fae04b200800000000000000
+      internalID: 194796829217447233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2649
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d6c4865d4e5640800000000000000
+      internalID: 5070575264455906266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2667
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4937609a249981fc0800000000000000
+      internalID: -3523898196834749548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2666
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6210f7d8769c290800000000000000
+      internalID: -7869645016434399501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2198
+        width: 153
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdf94ecc0a0eb430800000000000000
+      internalID: 3800486185664118204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2636
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1824d6c3e2feea8d0800000000000000
+      internalID: -2833064133708135807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2309
+        width: 426
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e27e744112e610800000000000000
+      internalID: 1648899399447929463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2073
+        width: 189
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6932bbcac1357510800000000000000
+      internalID: 1546196794142243179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1990
+        width: 207
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef78b188cd181a9a0800000000000000
+      internalID: -6223550425873020930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2037
+        width: 276
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ee822abeefda30800000000000000
+      internalID: 4242371857217413316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2329
+        width: 345
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a3b951a603e50c0800000000000000
+      internalID: -4585174138429425042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2329
+        width: 166
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3bc9d3e499b75e0800000000000000
+      internalID: -1910765055568464932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2262
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b74c01516d4980800000000000000
+      internalID: -8553073116580433481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2243
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991c2316ea5c4e9c0800000000000000
+      internalID: -3898774024650309223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 299
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f2f9530acc86a0800000000000000
+      internalID: -6445554850931214129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2201
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1420a382a9c35fc90800000000000000
+      internalID: -7136731401701162431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36791ac5fb393be00800000000000000
+      internalID: 1059352787464329059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2187
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df13133a5f9f74c40800000000000000
+      internalID: 5496636703629193725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 2215
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8116c039c15f2e0800000000000000
+      internalID: -2092735033950267165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66b24578fa12d8a0800000000000000
+      internalID: -6281928875806902676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2101
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4beb134c5ac7f580800000000000000
+      internalID: -8793337249805898934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1923
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b084d179dcd9a0800000000000000
+      internalID: -6206847103503650652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2056
+        width: 372
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efed7e9abb7bc220800000000000000
+      internalID: 2507233659015000032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2203
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231258c940e202140800000000000000
+      internalID: 4692801409060774194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1843
+        width: 476
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99490631e5382aba0800000000000000
+      internalID: -6079152106921487207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1897
+        width: 507
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce7581969f9a770800000000000000
+      internalID: 8622697191352823026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2054
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03ae04f74249700800000000000000
+      internalID: 546101583787208889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2025
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2063b3be1e07980800000000000000
+      internalID: -8543080092694871346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1500
+        width: 168
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e044209f94f3b6be0800000000000000
+      internalID: -1483022065345608690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1720
+        width: 61
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726415ef1100e3420800000000000000
+      internalID: 2611524911202649639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1251
+        width: 250
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e28a8612087be0800000000000000
+      internalID: -1479430181754837709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1614
+        width: 528
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503a8290aefb8fb00800000000000000
+      internalID: 862650340538360581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1663
+        width: 530
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8adee264722980800000000000000
+      internalID: -8565155573042345350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1367
+        width: 289
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd4afea70f84e00800000000000000
+      internalID: 1029336925651393974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_86
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1767
+        width: 125
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d7e08634d336f0800000000000000
+      internalID: -705987386011037696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1806
+        width: 121
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc3ce0c8cb5bd00800000000000000
+      internalID: 987903003006848333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_88
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1879
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e3c8cd4df6c7720800000000000000
+      internalID: 2845272024615239191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_89
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1857
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c12d82d8a6956260800000000000000
+      internalID: 7090238840195850691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1567
+        width: 77
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b7aae27b9ef8450800000000000000
+      internalID: 6093345793826782042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1513
+        width: 92
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441f3f7db572177c0800000000000000
+      internalID: -4075432912374992572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1584
+        width: 194
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa2c4319a409990800000000000000
+      internalID: -7381317801744355494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1578
+        width: 76
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf16151253667d0800000000000000
+      internalID: -2925592490714989796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1483
+        width: 255
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f419a5aa7e98e820800000000000000
+      internalID: 2947780205716509941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1716
+        width: 140
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1fa1ffbfde049c0800000000000000
+      internalID: -3944891607004024330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1571
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d6eedfef3eba10800000000000000
+      internalID: 1927047990030554270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1098
+        width: 301
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4caf4f53e1ada4a0800000000000000
+      internalID: -6580425482589721523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1121
+        width: 363
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f428fd1b25dc8b980800000000000000
+      internalID: -8522836539743436209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1558
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ecfef6af4e25740800000000000000
+      internalID: 5139421889054101012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1130
+        width: 384
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa61bcfb071a7e30800000000000000
+      internalID: 4501936117761796862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1070
+        width: 282
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2d76d3b569c9b0800000000000000
+      internalID: -5059400883301962258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1417
+        width: 296
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08027bf81cd44c8e0800000000000000
+      internalID: -1674127667739811712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1367
+        width: 79
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4522cc8777932e6c0800000000000000
+      internalID: -4115663924172676524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1120
+        width: 382
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a8c498089546260800000000000000
+      internalID: 7089890121982183974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_105
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1378
+        width: 166
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f421e8922e1b10800000000000000
+      internalID: 1954037328333042412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_106
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1423
+        width: 64
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8e5f0d816934ca0800000000000000
+      internalID: -6033814042417174293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_107
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 1249
+        width: 267
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33fa140ab5059230800000000000000
+      internalID: 3644825769917215547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_108
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1424
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd40c3ffe29c86c0800000000000000
+      internalID: -4139772398176023093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3382e9445528820800000000000000
+      internalID: 2918989261689074670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_110
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1338
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98140dca762a48a0800000000000000
+      internalID: -6320196818193606500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_111
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1313
+        width: 313
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39058b96be13bb6b0800000000000000
+      internalID: -5279571251001012077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 262
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac16aaa05610cc20800000000000000
+      internalID: 3224601868913482913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_113
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1112
+        width: 148
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d339665715608c90800000000000000
+      internalID: -7169619455865441325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_114
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 702
+        width: 279
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118cbec312c01fbe0800000000000000
+      internalID: -1445360668513679343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_115
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 834
+        width: 157
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d443bd33d7d3810800000000000000
+      internalID: 1746689892164062609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_116
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1139
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812c888fed99cb40800000000000000
+      internalID: 5461069675277066631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_117
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1003
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a07371511990be40800000000000000
+      internalID: 5670200230519468194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_118
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1157
+        width: 132
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d66463586c473c0800000000000000
+      internalID: -4362643863571632776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_119
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 774
+        width: 390
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b24e12304b7550800000000000000
+      internalID: 6159587499359514689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_120
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1002
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2f138bf53bfdf80800000000000000
+      internalID: -8079541982785834322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_121
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 857
+        width: 675
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e65b5681c21c4a0800000000000000
+      internalID: -6574925497686987123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_122
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1108
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089b95eed70163d80800000000000000
+      internalID: -8271405532563523200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_123
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 738
+        width: 114
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86e12211aed6cd0800000000000000
+      internalID: -2563135253596182289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 612
+        width: 549
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb18e064f58a9e0800000000000000
+      internalID: -1609932112289219838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_125
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 874
+        width: 153
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9d27aa757412c10800000000000000
+      internalID: 2026979749140814259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_126
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 645
+        width: 402
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c48add575ddc8450800000000000000
+      internalID: 6092487763231933632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_127
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 838
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9ad7e760cb6b700800000000000000
+      internalID: 555838340104825301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_128
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 763
+        width: 137
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee1dcf993c24a10800000000000000
+      internalID: 1892289859588058784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_129
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 765
+        width: 76
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731803ff7b07ddc20800000000000000
+      internalID: 3232864043084579127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_130
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 801
+        width: 77
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cc3ddb661d7d230800000000000000
+      internalID: 3663627061090831519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_131
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 835
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c87c486a02028e0800000000000000
+      internalID: -1720339158091199437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_132
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 899
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad1fea977168c90800000000000000
+      internalID: -7168015945519998214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_133
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 257
+        width: 491
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e6570b694666e70800000000000000
+      internalID: 9108077894771764772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_134
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 797
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04499f6917e5b070800000000000000
+      internalID: 8121651599465071628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_135
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 599
+        width: 300
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984c0d40aed1a16c0800000000000000
+      internalID: -4171989213864999799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_136
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 459
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06b4957cd7700c0800000000000000
+      internalID: -4609577398440337179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_137
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 655
+        width: 136
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b608112ef79a60ba0800000000000000
+      internalID: -6123020276644872085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_138
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 603
+        width: 237
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d810fd00389754a0800000000000000
+      internalID: -6604642996355852079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_139
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 655
+        width: 103
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6fcbc8aac153c0800000000000000
+      internalID: -4372490936877356082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_140
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 759
+        width: 148
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f5b8a35ac5cbe0800000000000000
+      internalID: -1457536443722894540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_141
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 655
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae793ada35142c0800000000000000
+      internalID: -4449182951626249517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_142
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 361
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306ea6b9061fe1250800000000000000
+      internalID: 5917432357638039043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_143
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 658
+        width: 164
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79a772f06e736580800000000000000
+      internalID: -8835079089120892548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_144
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 695
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514e6231517a9e70800000000000000
+      internalID: 9122728588744737109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_145
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 693
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9223c25a02641f7f0800000000000000
+      internalID: -580605770930048471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_146
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 475
+        width: 186
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36451208aa184b50800000000000000
+      internalID: 6577536564666385978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_147
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 500
+        width: 146
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1142390134698500800000000000000
+      internalID: 398960203769463069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_148
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 408
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1391100aaa75610800000000000000
+      internalID: 1609942995998159356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_149
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 615
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5610bdcb65fb5b0800000000000000
+      internalID: -5350462463164717573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_150
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 99
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beedca3f3b4d3ca0800000000000000
+      internalID: -6035585190664999246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_151
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 414
+        width: 99
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e55a6fb5adfe0b0800000000000000
+      internalID: -5697094915085476325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_152
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 510
+        width: 327
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51bcddf080daf560800000000000000
+      internalID: 7348414994441875807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_153
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 639
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3248044678a9160800000000000000
+      internalID: 7033082632741331927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_154
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 635
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5347a5db5d8c7e0800000000000000
+      internalID: -1744909846362966621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_155
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 264
+        width: 194
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59715402c6d4e260800000000000000
+      internalID: 7126056639191415134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7b0ca9326b034b0800000000000000
+      internalID: -5462666083963979828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_157
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 501
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0783ec6e7f69dc700800000000000000
+      internalID: 562271519964543088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_158
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 449
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6990d98576634b0800000000000000
+      internalID: -5461063867850713376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_159
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 532
+        width: 230
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59517dda8aa7b8f10800000000000000
+      internalID: 2273045301828195733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_160
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 469
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6ccc8086d64130800000000000000
+      internalID: 3550761203834580706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 804
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb9664dc4f4ea50800000000000000
+      internalID: 6549628920590351931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_162
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 453
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa188ac71b1028fa0800000000000000
+      internalID: -5800071508287520337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_163
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 215
+        width: 126
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20621df0830b85ed0800000000000000
+      internalID: -2424994644508989950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_164
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 343
+        width: 121
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2a066c409b3e3b0800000000000000
+      internalID: -5484336491047902492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_165
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 165
+        width: 91
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced22dab138915270800000000000000
+      internalID: 8237532532792503788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_166
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 423
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b472046413c450800000000000000
+      internalID: 6107747939415012987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_167
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 343
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4acad993b0fba7c0800000000000000
+      internalID: -4058885984973305268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_168
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 345
+        width: 95
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29455b0c230f7a0d0800000000000000
+      internalID: -3411494091937721198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_169
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 133
+        width: 341
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220bdcca548d3de0800000000000000
+      internalID: -1351778787622452702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_170
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 234
+        width: 166
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbaeb99cb47b1b60800000000000000
+      internalID: 7717890739811560412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_171
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 137
+        width: 93
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82bee1c6bdd5fa60800000000000000
+      internalID: 7707310114321904267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_172
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 303
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f670ba288b5d0ab0800000000000000
+      internalID: -5040271767567829259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_173
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 230
+        width: 71
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633babe45f448e7f0800000000000000
+      internalID: -583140331365944522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_174
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 187
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec6fa078b279c70800000000000000
+      internalID: 8977692241190899220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_175
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 122
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6912bb96b9f0b240800000000000000
+      internalID: 4805615365095823722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_176
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 107
+        width: 251
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acbcb49f2b681b90800000000000000
+      internalID: -7270943746286633817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_177
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 127
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2fe97569287b840800000000000000
+      internalID: 5239800273695601362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_178
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08568883541395c0800000000000000
+      internalID: -4209998877655934961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_179
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5c0970a999a870800000000000000
+      internalID: 8694649470120123312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_180
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 0
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e32593183140650800000000000000
+      internalID: 6198100432902045207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_181
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 79
+        width: 278
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b4c4108e116fc0800000000000000
+      internalID: -3503485499664452804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_182
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 106
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e7ce6ddbc986c0800000000000000
+      internalID: -4140554230483655534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_183
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 0
+        width: 166
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0554e042d7d8950800000000000000
+      internalID: 6452951434903507120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_184
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 0
+        width: 350
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33b0fdf3b9e5eb0800000000000000
+      internalID: -4729171860065143823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_185
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 110
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d89ab758f062c30800000000000000
+      internalID: 4334168757370457498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_186
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 0
+        width: 366
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8a9f52607417d30800000000000000
+      internalID: 4427398000414402795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_187
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 59
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf66bdfd8121f20800000000000000
+      internalID: 3391800819101137655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_188
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 127
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5234579a9f940090800000000000000
+      internalID: -8069149146028428706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deepnest (Group 0)-4096x4096-fmt12_189
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 0
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a246714ab66e310800000000000000
+      internalID: 1433951883875330669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

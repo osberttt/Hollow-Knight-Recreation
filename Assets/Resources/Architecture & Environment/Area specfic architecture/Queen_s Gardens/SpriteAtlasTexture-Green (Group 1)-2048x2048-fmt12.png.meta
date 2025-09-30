@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 733874705006c3f4896eead1bf7131cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7101732280654102642
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_0
+  - first:
+      213: 3095833901675648239
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_1
+  - first:
+      213: -7338093033348096394
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_2
+  - first:
+      213: 5670356761180050106
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_3
+  - first:
+      213: 987066753774521037
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_4
+  - first:
+      213: -7819163060834764328
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_5
+  - first:
+      213: 5492163627374353354
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_6
+  - first:
+      213: -8305384432064963836
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_7
+  - first:
+      213: 837677853678905266
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_8
+  - first:
+      213: -6566321880002720686
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_9
+  - first:
+      213: 7015620166397173145
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_10
+  - first:
+      213: 7222836710209449693
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_11
+  - first:
+      213: -8700364425172078107
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_12
+  - first:
+      213: -4773902200812912053
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_13
+  - first:
+      213: 8515643146940348473
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_14
+  - first:
+      213: 938057243645388946
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_15
+  - first:
+      213: 2937098332435898041
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_16
+  - first:
+      213: -5729389285099519676
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_17
+  - first:
+      213: -8374881083907391760
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_18
+  - first:
+      213: 5876823107214954206
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_19
+  - first:
+      213: 8636796213635631453
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_20
+  - first:
+      213: -805529881796143187
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_21
+  - first:
+      213: -6245344270097732371
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_22
+  - first:
+      213: -5216095666241321557
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_23
+  - first:
+      213: -8760644854400619939
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_24
+  - first:
+      213: -1200895409705834689
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_25
+  - first:
+      213: 8722482301794624539
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_26
+  - first:
+      213: 4822317100028247109
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_27
+  - first:
+      213: 8858398262894599305
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_28
+  - first:
+      213: 7676840081262987727
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_29
+  - first:
+      213: -1280960290742705302
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_30
+  - first:
+      213: 7976366068308264156
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_31
+  - first:
+      213: 5233730297742307228
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_32
+  - first:
+      213: -8765625148628409664
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_33
+  - first:
+      213: 6769482449781952797
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_34
+  - first:
+      213: -6401742299647466928
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_35
+  - first:
+      213: -249890117471718650
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_36
+  - first:
+      213: -8650404523518537047
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_37
+  - first:
+      213: -4298551460563794696
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_38
+  - first:
+      213: -3014722397318572161
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_39
+  - first:
+      213: -6279385570646899615
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_40
+  - first:
+      213: 8480438790517521853
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_41
+  - first:
+      213: -6034427164202233328
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_42
+  - first:
+      213: 4839548383034341096
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_43
+  - first:
+      213: -4207842936186800419
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_44
+  - first:
+      213: -2714950561266149494
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_45
+  - first:
+      213: -6581926399026211992
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_46
+  - first:
+      213: 5114988965419966582
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_47
+  - first:
+      213: 3522075520817017433
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_48
+  - first:
+      213: 1812723040069186046
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_49
+  - first:
+      213: -3662421436290502597
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_50
+  - first:
+      213: 8034605422418455800
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_51
+  - first:
+      213: -8801086837873860577
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_52
+  - first:
+      213: -3156099054512817298
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_53
+  - first:
+      213: 2019741094782506639
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_54
+  - first:
+      213: 376705963184961271
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_55
+  - first:
+      213: 701637854912808494
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_56
+  - first:
+      213: 2077942170285537491
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_57
+  - first:
+      213: 881193302779191988
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_58
+  - first:
+      213: 3410967673794971533
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_59
+  - first:
+      213: 4505471156712871510
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_60
+  - first:
+      213: -7436565708686162587
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_61
+  - first:
+      213: 7719767130515176220
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_62
+  - first:
+      213: 4709227151987772997
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_63
+  - first:
+      213: 1010643535827109610
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_64
+  - first:
+      213: -8075123484642183797
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_65
+  - first:
+      213: -7875826349405117642
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_66
+  - first:
+      213: -2123197115873136075
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_67
+  - first:
+      213: 6820517421399015517
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_68
+  - first:
+      213: -1454902740802320207
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_69
+  - first:
+      213: -6001207913381488070
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_70
+  - first:
+      213: 7179294904386256561
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_71
+  - first:
+      213: -6851275463090394556
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_72
+  - first:
+      213: 6727111160780924735
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_73
+  - first:
+      213: 1914488327637543486
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_74
+  - first:
+      213: -6542628103464835504
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_75
+  - first:
+      213: -6250601809719422304
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_76
+  - first:
+      213: -6387032217028085570
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_77
+  - first:
+      213: -1955193429783610047
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_78
+  - first:
+      213: 7230924463087061146
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_79
+  - first:
+      213: 153074981731408026
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_80
+  - first:
+      213: -2669575303329099188
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_81
+  - first:
+      213: 2378946173098886405
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_82
+  - first:
+      213: -662676661497138888
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_83
+  - first:
+      213: -6773188763068290872
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_84
+  - first:
+      213: 8062572914741954001
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_85
+  - first:
+      213: -560270280875334125
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_86
+  - first:
+      213: 4858931104330112457
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_87
+  - first:
+      213: 3098369849306227080
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_88
+  - first:
+      213: 8019800761854351853
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_89
+  - first:
+      213: 7234504632133772838
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_90
+  - first:
+      213: 5045781687107081296
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_91
+  - first:
+      213: 675249026431740966
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_92
+  - first:
+      213: 7739320433374310796
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_93
+  - first:
+      213: 6780770810605051106
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_94
+  - first:
+      213: -2468328161803295169
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_95
+  - first:
+      213: -3439456575097800432
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_96
+  - first:
+      213: 6527444545192744385
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_97
+  - first:
+      213: -6051661873286517792
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_98
+  - first:
+      213: -3513073044000079615
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_99
+  - first:
+      213: -5316842413602915491
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_100
+  - first:
+      213: 6927961344740368814
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_101
+  - first:
+      213: -4407087669324999518
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_102
+  - first:
+      213: 8200475219141435666
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_103
+  - first:
+      213: -775891515671140867
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_104
+  - first:
+      213: -206249565687203515
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_105
+  - first:
+      213: 8061772042748883627
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_106
+  - first:
+      213: 8393084732390494125
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_107
+  - first:
+      213: -3356376594341294975
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_108
+  - first:
+      213: -741973777160734392
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_109
+  - first:
+      213: -5608722631769928456
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_110
+  - first:
+      213: -4118743245832021536
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_111
+  - first:
+      213: 8951016673200281344
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_112
+  - first:
+      213: -7364066575144972851
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_113
+  - first:
+      213: 4998322423886636910
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_114
+  - first:
+      213: -2354059262195333363
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_115
+  - first:
+      213: 5573900718459949250
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_116
+  - first:
+      213: -2984624190487895265
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_117
+  - first:
+      213: -4029213003392507040
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_118
+  - first:
+      213: 7375539262944268908
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_119
+  - first:
+      213: -2458647796232485246
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_120
+  - first:
+      213: 5493944495068145874
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_121
+  - first:
+      213: 14172442168422956
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_122
+  - first:
+      213: 3667729458343074801
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_123
+  - first:
+      213: 3291194148056973698
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_124
+  - first:
+      213: -5361368615278671223
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_125
+  - first:
+      213: -8525587569941984608
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_126
+  - first:
+      213: 6726848673185638927
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_127
+  - first:
+      213: -70044986199366262
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_128
+  - first:
+      213: -8930739209624529469
+    second: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2700056f1eb6e8260800000000000000
+      internalID: 7101732280654102642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1850
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe41df8f78c96fa20800000000000000
+      internalID: 3095833901675648239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1850
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e948ad34bd92a90800000000000000
+      internalID: -7338093033348096394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1816
+        width: 167
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab21fd37e6721be40800000000000000
+      internalID: 5670356761180050106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1815
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca045c9bf3c2bd00800000000000000
+      internalID: 987066753774521037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1846
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d97616bf90cc7390800000000000000
+      internalID: -7819163060834764328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1807
+        width: 386
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb18f968b5183c40800000000000000
+      internalID: 5492163627374353354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1688
+        width: 307
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b55b3ecd85dbc80800000000000000
+      internalID: -8305384432064963836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1718
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b72eb8d19700ab00800000000000000
+      internalID: 837677853678905266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1541
+        width: 83
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c009d3a0dbfd4a0800000000000000
+      internalID: -6566321880002720686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1584
+        width: 111
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d9b29fe5d7c5160800000000000000
+      internalID: 7015620166397173145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1703
+        width: 202
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde6fae38bbac3460800000000000000
+      internalID: 7222836710209449693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1411
+        width: 73
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e13c2dd6a8124780800000000000000
+      internalID: -8700364425172078107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1665
+        width: 173
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424718dd31bfbdb0800000000000000
+      internalID: -4773902200812912053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1558
+        width: 225
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9387e570354ad2670800000000000000
+      internalID: 8515643146940348473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 616
+        width: 335
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982772d716a40d00800000000000000
+      internalID: 938057243645388946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1556
+        width: 84
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bedb373f5ba2c820800000000000000
+      internalID: 2937098332435898041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1534
+        width: 296
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c6b10dce1d70b0800000000000000
+      internalID: -5729389285099519676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 324
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febf85b60276cb80800000000000000
+      internalID: -8374881083907391760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1381
+        width: 90
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeca51ba7bae8150800000000000000
+      internalID: 5876823107214954206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1370
+        width: 105
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59c03785601cd770800000000000000
+      internalID: 8636796213635631453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1405
+        width: 86
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7149327de22d4f0800000000000000
+      internalID: -805529881796143187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1567
+        width: 141
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decadc0c9741459a0800000000000000
+      internalID: -6245344270097732371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1244
+        width: 90
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba54b3ba0a4bc97b0800000000000000
+      internalID: -5216095666241321557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1479
+        width: 198
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ae81abbefeb6680800000000000000
+      internalID: -8760644854400619939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1376
+        width: 214
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37261cccff855fe0800000000000000
+      internalID: -1200895409705834689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1466
+        width: 206
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a916907b7c0970800000000000000
+      internalID: 8722482301794624539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1205
+        width: 57
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cb97d4adf4ce240800000000000000
+      internalID: 4822317100028247109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1305
+        width: 116
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c15ca494a5fea70800000000000000
+      internalID: 8858398262894599305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1297
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94929516d998a60800000000000000
+      internalID: 7676840081262987727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1147
+        width: 201
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6366e2076d193ee0800000000000000
+      internalID: -1280960290742705302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1368
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd44ef3bdaeb1be60800000000000000
+      internalID: 7976366068308264156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1297
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f212fe9f1f1a840800000000000000
+      internalID: 5233730297742307228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 292
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e5cd9e5e3a5680800000000000000
+      internalID: -8765625148628409664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1297
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119e7cfb6802fd50800000000000000
+      internalID: 6769482449781952797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 985
+        width: 74
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052abeddb417827a0800000000000000
+      internalID: -6401742299647466928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1288
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b73b1346388cf0800000000000000
+      internalID: -249890117471718650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1205
+        width: 218
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2de3ceae693f780800000000000000
+      internalID: -8650404523518537047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1191
+        width: 138
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4cb58a83a7854c0800000000000000
+      internalID: -4298551460563794696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1235
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77996bc3fd8926d0800000000000000
+      internalID: -3014722397318572161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 224
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164c0e5d7142bd8a0800000000000000
+      internalID: -6279385570646899615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 985
+        width: 79
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd7d30162290b570800000000000000
+      internalID: 8480438790517521853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 985
+        width: 81
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01212c64778614ca0800000000000000
+      internalID: -6034427164202233328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1117
+        width: 86
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6f3140d97892340800000000000000
+      internalID: 4839548383034341096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1147
+        width: 288
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f2f5c42dba95c0800000000000000
+      internalID: -4207842936186800419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1180
+        width: 170
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87dbf459de825ad0800000000000000
+      internalID: -2714950561266149494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1097
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d64800dc48a4a0800000000000000
+      internalID: -6581926399026211992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1105
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67066e91d571cf640800000000000000
+      internalID: 5114988965419966582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 986
+        width: 147
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b562860de0e030800000000000000
+      internalID: 3522075520817017433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 643
+        width: 172
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef17d7f2006182910800000000000000
+      internalID: 1812723040069186046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 972
+        width: 198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f028ab177c2dc0800000000000000
+      internalID: -3662421436290502597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1000
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fceda10017a08f60800000000000000
+      internalID: 8034605422418455800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1057
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a92fa6224cd580800000000000000
+      internalID: -8801086837873860577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1003
+        width: 138
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b31d3b1a84334d0800000000000000
+      internalID: -3156099054512817298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 978
+        width: 206
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8615cc13df870c10800000000000000
+      internalID: 2019741094782506639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 886
+        width: 126
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63960e3145a3500800000000000000
+      internalID: 376705963184961271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 996
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268b0f59e7bcb900800000000000000
+      internalID: 701637854912808494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 258
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d87cabf46556dc10800000000000000
+      internalID: 2077942170285537491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 731
+        width: 145
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b26b9ed3a0aa3c00800000000000000
+      internalID: 881193302779191988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 919
+        width: 339
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87c3e8f601365f20800000000000000
+      internalID: 3410967673794971533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 620
+        width: 181
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65693a16526a68e30800000000000000
+      internalID: 4505471156712871510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 805
+        width: 79
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56509e873e20cc890800000000000000
+      internalID: -7436565708686162587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 837
+        width: 181
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf71bdd4f122b60800000000000000
+      internalID: 7719767130515176220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 824
+        width: 140
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0bd8e4298a5140800000000000000
+      internalID: 4709227151987772997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 830
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae60583f0f6860e00800000000000000
+      internalID: 1010643535827109610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 835
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85fc7c79f56fef80800000000000000
+      internalID: -8075123484642183797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 543
+        width: 55
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633eb03c9a173b290800000000000000
+      internalID: -7875826349405117642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 847
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327f38e873e882e0800000000000000
+      internalID: -2123197115873136075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 847
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d500ad6457857ae50800000000000000
+      internalID: 6820517421399015517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 735
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84cb76aa52fcbe0800000000000000
+      internalID: -1454902740802320207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 810
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a12a3d23d67bca0800000000000000
+      internalID: -6001207913381488070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 469
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bef6b19daaf1a360800000000000000
+      internalID: 7179294904386256561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 657
+        width: 154
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa52414416be0a0800000000000000
+      internalID: -6851275463090394556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 815
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37a9ee75ff7b5d50800000000000000
+      internalID: 6727111160780924735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 586
+        width: 99
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aa7779df0a19a10800000000000000
+      internalID: 1914488327637543486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 651
+        width: 92
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ad7b776ae335a0800000000000000
+      internalID: -6542628103464835504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 743
+        width: 121
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2924b65c66149a0800000000000000
+      internalID: -6250601809719422304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 698
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8b01fd904bc57a0800000000000000
+      internalID: -6387032217028085570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 252
+        width: 271
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df1964fe1cdd4e0800000000000000
+      internalID: -1955193429783610047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 633
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988cf3fc77695460800000000000000
+      internalID: 7230924463087061146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 349
+        width: 199
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98991682e4df1200800000000000000
+      internalID: 153074981731408026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 735
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42d9e7d763c3fad0800000000000000
+      internalID: -2669575303329099188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 445
+        width: 85
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5058553b0f6b30120800000000000000
+      internalID: 2378946173098886405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 658
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831758e5613bdc6f0800000000000000
+      internalID: -662676661497138888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 353
+        width: 45
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a5a4b4bcc002a0800000000000000
+      internalID: -6773188763068290872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 596
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d541ee395304ef60800000000000000
+      internalID: 8062572914741954001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_86
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 547
+        width: 138
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316a732e5258938f0800000000000000
+      internalID: -560270280875334125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 642
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd51bd78146e6340800000000000000
+      internalID: 4858931104330112457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_88
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 456
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881adaa46fe9ffa20800000000000000
+      internalID: 3098369849306227080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_89
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 152
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95cbb5d4e0c4f60800000000000000
+      internalID: 8019800761854351853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 387
+        width: 95
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626604402af166460800000000000000
+      internalID: 7234504632133772838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 559
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0545032f5b7360640800000000000000
+      internalID: 5045781687107081296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 218
+        width: 365
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c64637967fe5900800000000000000
+      internalID: 675249026431740966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 319
+        width: 284
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81b232fde6976b60800000000000000
+      internalID: 7739320433374310796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 488
+        width: 259
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec937d40232a1e50800000000000000
+      internalID: 6780770810605051106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 263
+        width: 52
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362f965d9cbebdd0800000000000000
+      internalID: -2468328161803295169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 336
+        width: 245
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f9ecc7789440d0800000000000000
+      internalID: -3439456575097800432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 454
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5564fda34269a50800000000000000
+      internalID: 6527444545192744385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 172
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6bfdd69d240ca0800000000000000
+      internalID: -6051661873286517792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 439
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1010066fdae0f3fc0800000000000000
+      internalID: -3513073044000079615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 251
+        width: 126
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb772aef7c636b0800000000000000
+      internalID: -5316842413602915491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 336
+        width: 32
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea123ea1320152060800000000000000
+      internalID: 6927961344740368814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 139
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a411ef4d11e6d2c0800000000000000
+      internalID: -4407087669324999518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 105
+        width: 113
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a15a83c0fdc170800000000000000
+      internalID: 8200475219141435666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 119
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ae2007ca7b35f0800000000000000
+      internalID: -775891515671140867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_105
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 313
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b22edc11432df0800000000000000
+      internalID: -206249565687203515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_106
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 48
+        width: 179
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2f834b5fa21ef60800000000000000
+      internalID: 8061772042748883627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_107
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 135
+        width: 66
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafc3eb781a3a7470800000000000000
+      internalID: 8393084732390494125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_108
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 259
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0ad13541cb61d0800000000000000
+      internalID: -3356376594341294975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_109
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 113
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849fda3e7caf3b5f0800000000000000
+      internalID: -741973777160734392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_110
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 106
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc8a19b70d922b0800000000000000
+      internalID: -5608722631769928456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 103
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9942707d847d6c0800000000000000
+      internalID: -4118743245832021536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_112
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 101
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00793b06d36683c70800000000000000
+      internalID: 8951016673200281344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_113
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 157
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd082667749dc990800000000000000
+      internalID: -7364066575144972851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_114
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 53
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e1a423cb9d5540800000000000000
+      internalID: 4998322423886636910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_115
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 182
+        width: 286
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0701a8c293b45fd0800000000000000
+      internalID: -2354059262195333363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_116
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 124
+        width: 34
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09911fb297a5d40800000000000000
+      internalID: 5573900718459949250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_117
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 197
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f136ee9ac1c7496d0800000000000000
+      internalID: -2984624190487895265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_118
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 139
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a7600f1c5518c0800000000000000
+      internalID: -4029213003392507040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_119
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 47
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625db2e1ed2b5660800000000000000
+      internalID: 7375539262944268908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_120
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 51
+        width: 146
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28604c51bd021edd0800000000000000
+      internalID: -2458647796232485246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_121
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 129
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8ef3cf8696e3c40800000000000000
+      internalID: 5493944495068145874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_122
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 125
+        width: 234
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c227c05d2c9523000800000000000000
+      internalID: 14172442168422956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_123
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 0
+        width: 96
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb56c8828466e230800000000000000
+      internalID: 3667729458343074801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_124
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 93
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281c7c1e3abacad20800000000000000
+      internalID: 3291194148056973698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 269
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a036076a79895b0800000000000000
+      internalID: -5361368615278671223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_126
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa4f1096470fa980800000000000000
+      internalID: -8525587569941984608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_127
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 315
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aa9075a319a5d50800000000000000
+      internalID: 6726848673185638927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_128
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a852a47c476270ff0800000000000000
+      internalID: -70044986199366262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Green (Group 1)-2048x2048-fmt12_129
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 0
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c55da48104af0480800000000000000
+      internalID: -8930739209624529469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

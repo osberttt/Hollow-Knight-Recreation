@@ -1,0 +1,6518 @@
+fileFormatVersion: 2
+guid: 7245890e2f039804588cfb90b9b63bc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1357307297593530219
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_0
+  - first:
+      213: 2338006238206495778
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_1
+  - first:
+      213: 8044868148497924782
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_2
+  - first:
+      213: -982618773485319937
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_3
+  - first:
+      213: -7942246172281707414
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_4
+  - first:
+      213: -7862718489244269451
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_5
+  - first:
+      213: 2144470282071669697
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_6
+  - first:
+      213: -3181384403871580299
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_7
+  - first:
+      213: -6340735662673382852
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_8
+  - first:
+      213: 7664077574655104009
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_9
+  - first:
+      213: -3960583752134523817
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_10
+  - first:
+      213: 7499880867547276341
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_11
+  - first:
+      213: -3771353026442867078
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_12
+  - first:
+      213: 4544157938247809834
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_13
+  - first:
+      213: 7442237855422903505
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_14
+  - first:
+      213: 8857379697661839296
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_15
+  - first:
+      213: 4617941297381877270
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_16
+  - first:
+      213: -7985747157124848132
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_17
+  - first:
+      213: -2462678688657468550
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_18
+  - first:
+      213: -3898888883206719020
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_19
+  - first:
+      213: 7464327639895997273
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_20
+  - first:
+      213: 3087863183370894410
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_21
+  - first:
+      213: 6646729124649100242
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_22
+  - first:
+      213: 5366229009714707747
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_23
+  - first:
+      213: -2411512447062499982
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_24
+  - first:
+      213: 4969932080211587709
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_25
+  - first:
+      213: 259503804256895945
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_26
+  - first:
+      213: -973203435855919388
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_27
+  - first:
+      213: 4824873775270918021
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_28
+  - first:
+      213: 7623116459189575730
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_29
+  - first:
+      213: -954416164518842935
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_30
+  - first:
+      213: -5876867701656644625
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_31
+  - first:
+      213: 589063544284791303
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_32
+  - first:
+      213: 2522390403470998632
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_33
+  - first:
+      213: 1356763827280778616
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_34
+  - first:
+      213: 8421329524698720758
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_35
+  - first:
+      213: -2628467502732504695
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_36
+  - first:
+      213: -6848943853296940511
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_37
+  - first:
+      213: 6040960683504927602
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_38
+  - first:
+      213: -6988405982162684828
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_39
+  - first:
+      213: -7937177737831755118
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_40
+  - first:
+      213: -4482458052319896678
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_41
+  - first:
+      213: -3389210193098237424
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_42
+  - first:
+      213: 3868752954207765839
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_43
+  - first:
+      213: 7346532835803171150
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_44
+  - first:
+      213: -121917901418460865
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_45
+  - first:
+      213: 5243220452494758807
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_46
+  - first:
+      213: -5074339993109044093
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_47
+  - first:
+      213: 3377491053397274562
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_48
+  - first:
+      213: -8892517669637841363
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_49
+  - first:
+      213: 7228782042159426721
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_50
+  - first:
+      213: 6622761329401466283
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_51
+  - first:
+      213: 6625059809879130221
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_52
+  - first:
+      213: -3770982194564564661
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_53
+  - first:
+      213: 3223742438614539006
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_54
+  - first:
+      213: 2526508135300712349
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_55
+  - first:
+      213: -2494640462146002092
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_56
+  - first:
+      213: -6511262070570730882
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_57
+  - first:
+      213: -7135569452094245841
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_58
+  - first:
+      213: -2538224679826801560
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_59
+  - first:
+      213: -6922735534627622315
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_60
+  - first:
+      213: 1999933612582760056
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_61
+  - first:
+      213: -2766552394922005992
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_62
+  - first:
+      213: 2500805069310768774
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_63
+  - first:
+      213: 2322852145878011423
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_64
+  - first:
+      213: 2271613884393806897
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_65
+  - first:
+      213: 357915569555961307
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_66
+  - first:
+      213: 1864523161674433959
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_67
+  - first:
+      213: -588073162593955009
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_68
+  - first:
+      213: -6913146363988360012
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_69
+  - first:
+      213: -1569204541552397006
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_70
+  - first:
+      213: -5911612079945096542
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_71
+  - first:
+      213: 869050682406548541
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_72
+  - first:
+      213: -6980638779017145690
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_73
+  - first:
+      213: 822636184647784549
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_74
+  - first:
+      213: -3678198380231711779
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_75
+  - first:
+      213: 1216383552698392455
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_76
+  - first:
+      213: 2849548266457770536
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_77
+  - first:
+      213: 664831851249419057
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_78
+  - first:
+      213: 7476883216081011453
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_79
+  - first:
+      213: 2013593065607706659
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_80
+  - first:
+      213: 6218370795843974165
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_81
+  - first:
+      213: -5826798990538789045
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_82
+  - first:
+      213: -6279713392192545897
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_83
+  - first:
+      213: 5972696061081375355
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_84
+  - first:
+      213: -993692758763354131
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_85
+  - first:
+      213: 6708194711494121036
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_86
+  - first:
+      213: -7888762386952396426
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_87
+  - first:
+      213: 4114666748379060046
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_88
+  - first:
+      213: -7024293816364873087
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_89
+  - first:
+      213: 7773647040667632153
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_90
+  - first:
+      213: 7889276805265543933
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_91
+  - first:
+      213: 3573633689005531236
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_92
+  - first:
+      213: 6057568096004032267
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_93
+  - first:
+      213: 453887488984867754
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_94
+  - first:
+      213: -5692301209393717579
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_95
+  - first:
+      213: -3490710993162573354
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_96
+  - first:
+      213: 482548940547121130
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_97
+  - first:
+      213: -8725985935874507738
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_98
+  - first:
+      213: -8316925701707754112
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_99
+  - first:
+      213: -841313486063533724
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_100
+  - first:
+      213: 3958940257418189510
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_101
+  - first:
+      213: 2400529696201153121
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_102
+  - first:
+      213: -3933703627704006820
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_103
+  - first:
+      213: -969584598398715727
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_104
+  - first:
+      213: -9092155621944799528
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_105
+  - first:
+      213: -5456323945651399516
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_106
+  - first:
+      213: 2971061248283052456
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_107
+  - first:
+      213: -2522794504140155215
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_108
+  - first:
+      213: -226710936481838569
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_109
+  - first:
+      213: -6213097204019361528
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_110
+  - first:
+      213: -2081141888944239864
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_111
+  - first:
+      213: -1617645113016901272
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_112
+  - first:
+      213: -3493246290610104589
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_113
+  - first:
+      213: -330558935832569714
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_114
+  - first:
+      213: 7500095216050661042
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_115
+  - first:
+      213: -3294043256696410560
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_116
+  - first:
+      213: -8255629260130856092
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_117
+  - first:
+      213: 3283515565833153308
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_118
+  - first:
+      213: -1226495976440465516
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_119
+  - first:
+      213: -5360794081139566526
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_120
+  - first:
+      213: -7374177149746126674
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_121
+  - first:
+      213: 4846499007544529066
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_122
+  - first:
+      213: 4410186133531348402
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_123
+  - first:
+      213: -4297063786945482770
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_124
+  - first:
+      213: -5653955498082560823
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_125
+  - first:
+      213: -355322858347079102
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_126
+  - first:
+      213: 1514489634071648234
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_127
+  - first:
+      213: -1946153650951742527
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_128
+  - first:
+      213: -4542759077549237986
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_129
+  - first:
+      213: -6500080465220680423
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_130
+  - first:
+      213: 3258656388537952332
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_131
+  - first:
+      213: -3168540085524747881
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_132
+  - first:
+      213: 3340326568255809795
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_133
+  - first:
+      213: -7276681187122765598
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_134
+  - first:
+      213: 6319178581667970276
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_135
+  - first:
+      213: -8408178082154762231
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_136
+  - first:
+      213: 274137176255303935
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_137
+  - first:
+      213: -64821652391175633
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_138
+  - first:
+      213: 1704045085222014686
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_139
+  - first:
+      213: -6160774396056010063
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_140
+  - first:
+      213: -4440600189007733741
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_141
+  - first:
+      213: 8629338135916368121
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_142
+  - first:
+      213: 3465729503690721646
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_143
+  - first:
+      213: 6588054204259553735
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_144
+  - first:
+      213: -8580921052398943647
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_145
+  - first:
+      213: 856001627013080240
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_146
+  - first:
+      213: -8100700303173392944
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_147
+  - first:
+      213: -585915639676878909
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_148
+  - first:
+      213: -7970892456385959117
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_149
+  - first:
+      213: 8230795851287620142
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_150
+  - first:
+      213: 4609813483472497561
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_151
+  - first:
+      213: 5829419194383447219
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_152
+  - first:
+      213: -8134073927820134117
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_153
+  - first:
+      213: -14639646844084946
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_154
+  - first:
+      213: 1146514111134895600
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_155
+  - first:
+      213: 7677464948011068112
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_156
+  - first:
+      213: 5069290680369789583
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_157
+  - first:
+      213: -2566432111665208401
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_158
+  - first:
+      213: -143174709727701446
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_159
+  - first:
+      213: 1240032095833448912
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_160
+  - first:
+      213: -525314303395145088
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_161
+  - first:
+      213: -3353153263636644684
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_162
+  - first:
+      213: 1033233030408883562
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_163
+  - first:
+      213: -4920598889459379165
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_164
+  - first:
+      213: 3283296602248240810
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_165
+  - first:
+      213: -9154511428650018626
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_166
+  - first:
+      213: -8013452634479541162
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_167
+  - first:
+      213: 7698358084635655679
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_168
+  - first:
+      213: 74823544009287066
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_169
+  - first:
+      213: 7952787763389376053
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_170
+  - first:
+      213: 1528194032985764030
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_171
+  - first:
+      213: 9001588372358574514
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_172
+  - first:
+      213: 8543845975249285770
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_173
+  - first:
+      213: -3572611912991254483
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_174
+  - first:
+      213: 9152711544380467720
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_175
+  - first:
+      213: 2090505489786826684
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_176
+  - first:
+      213: 9093526110653386567
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_177
+  - first:
+      213: 671534565052320996
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_178
+  - first:
+      213: 1447674339406637701
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_179
+  - first:
+      213: -2516634454202823037
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_180
+  - first:
+      213: -1023179560715997275
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_181
+  - first:
+      213: 7904656112855209129
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_182
+  - first:
+      213: -6516748522310019492
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_183
+  - first:
+      213: -6166382963345247474
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_184
+  - first:
+      213: -3892213296928860232
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_185
+  - first:
+      213: -2805859314955287073
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_186
+  - first:
+      213: 2067274682895294909
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_187
+  - first:
+      213: 7419758009124433204
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_188
+  - first:
+      213: -2302132853202268387
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_189
+  - first:
+      213: 9208887860419020566
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_190
+  - first:
+      213: -2105083025313362245
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_191
+  - first:
+      213: 5152957320147524754
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_192
+  - first:
+      213: -1400733322057859499
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_193
+  - first:
+      213: -6378862702014058132
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_194
+  - first:
+      213: 1839869801778244802
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_195
+  - first:
+      213: 4915018230054539675
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_196
+  - first:
+      213: -1367210468386399792
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_197
+  - first:
+      213: -2552401131657826214
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_198
+  - first:
+      213: -8716865783846235990
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_199
+  - first:
+      213: -4485876280384533046
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_200
+  - first:
+      213: 570800721665659206
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_201
+  - first:
+      213: -8755064083303908772
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_202
+  - first:
+      213: -4510180576887587692
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_203
+  - first:
+      213: -472168583995197285
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_204
+  - first:
+      213: 5466576824922992709
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_205
+  - first:
+      213: -6872415887983395561
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_206
+  - first:
+      213: 5604178234615956461
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_207
+  - first:
+      213: -1739922245312655735
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_208
+  - first:
+      213: 5191450752820082554
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_209
+  - first:
+      213: -3323522251184384941
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_210
+  - first:
+      213: -8789806509480418301
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_211
+  - first:
+      213: -3069680144437074927
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_212
+  - first:
+      213: -8753796032919528729
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_213
+  - first:
+      213: -2879082649936354614
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_214
+  - first:
+      213: 5635218650251766423
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_215
+  - first:
+      213: 2596471732682686283
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_216
+  - first:
+      213: -7195910500668147779
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_217
+  - first:
+      213: 2007571125255571789
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_218
+  - first:
+      213: -4482836516291485574
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_219
+  - first:
+      213: -4396761029295943377
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_220
+  - first:
+      213: 4178690025750838644
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_221
+  - first:
+      213: 9037664161597287812
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_222
+  - first:
+      213: -5578766244919561652
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_223
+  - first:
+      213: -149754509500135051
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_224
+  - first:
+      213: 6582296756543147955
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_225
+  - first:
+      213: 2939912827357175582
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_226
+  - first:
+      213: -1686621993224274139
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_227
+  - first:
+      213: -7415076643382248432
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_228
+  - first:
+      213: 1550755358610951412
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_229
+  - first:
+      213: -6568499168102857247
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_230
+  - first:
+      213: -6551955900539951833
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_231
+  - first:
+      213: 7263190051877335770
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_232
+  - first:
+      213: -8712392717267557
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_233
+  - first:
+      213: -5328090957527348386
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_234
+  - first:
+      213: -4720094007996845933
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_235
+  - first:
+      213: 6669608784664294845
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_236
+  - first:
+      213: -6764695100727137733
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_237
+  - first:
+      213: 5915164240295794456
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_238
+  - first:
+      213: -4554296073799252295
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_239
+  - first:
+      213: 5271041000220301031
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_240
+  - first:
+      213: 5689984056753126957
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_241
+  - first:
+      213: 6211862095925471088
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_242
+  - first:
+      213: 5658019489771813896
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_243
+  - first:
+      213: -9187064758300418735
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_244
+  - first:
+      213: 3008867668676460891
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_245
+  - first:
+      213: 7487680301424532782
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_246
+  - first:
+      213: 7457078202619739883
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_247
+  - first:
+      213: -1206876422142702404
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_248
+  - first:
+      213: -2802812957552368719
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_249
+  - first:
+      213: 7804867354584755969
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_250
+  - first:
+      213: 6750664839214124429
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_251
+  - first:
+      213: 5737951503472626445
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_252
+  - first:
+      213: -6946933834157786267
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_253
+  - first:
+      213: -8700289310651456048
+    second: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_254
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59864e34430e92de0800000000000000
+      internalID: -1357307297593530219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 366
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c02fe4944427020800000000000000
+      internalID: 2338006238206495778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 459
+        width: 126
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2c21025fc15af60800000000000000
+      internalID: 8044868148497924782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 821
+        width: 243
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff807c08e690d52f0800000000000000
+      internalID: -982618773485319937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 735
+        width: 52
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a646176af2977c190800000000000000
+      internalID: -7942246172281707414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 902
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57403b7413302e290800000000000000
+      internalID: -7862718489244269451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 799
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb73421c50b2cd10800000000000000
+      internalID: 2144470282071669697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 747
+        width: 73
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f34498db379d3d0800000000000000
+      internalID: -3181384403871580299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 894
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b3bb628e2108a0800000000000000
+      internalID: -6340735662673382852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 898
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904da58b2f54c5a60800000000000000
+      internalID: 7664077574655104009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 894
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75486debf0e2909c0800000000000000
+      internalID: -3960583752134523817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 891
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53467e7b9ede41860800000000000000
+      internalID: 7499880867547276341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 894
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e4748676679abc0800000000000000
+      internalID: -3771353026442867078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 889
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3880a197101f30800000000000000
+      internalID: 4544157938247809834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 677
+        width: 61
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4727a16e3284760800000000000000
+      internalID: 7442237855422903505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 675
+        width: 177
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c704e718ebbbea70800000000000000
+      internalID: 8857379697661839296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 872
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ad00a429361040800000000000000
+      internalID: 4617941297381877270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 871
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ec79554dec2190800000000000000
+      internalID: -7985747157124848132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 854
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7395aec7cec2ddd0800000000000000
+      internalID: -2462678688657468550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 853
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97eb9c73d54e9c0800000000000000
+      internalID: -3898888883206719020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 851
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7127d07e969760800000000000000
+      internalID: 7464327639895997273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 854
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c34df743b4ada20800000000000000
+      internalID: 3087863183370894410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 853
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e3f84ceced3c50800000000000000
+      internalID: 6646729124649100242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 856
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32df0735adca87a40800000000000000
+      internalID: 5366229009714707747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 800
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1865c436988ed0800000000000000
+      internalID: -2411512447062499982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 814
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7274d625eeb8f440800000000000000
+      internalID: 4969932080211587709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 801
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c34896c551f99300800000000000000
+      internalID: 259503804256895945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 836
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64e9f91ac7e72f0800000000000000
+      internalID: -973203435855919388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 617
+        width: 86
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fe15a22565f240800000000000000
+      internalID: 4824873775270918021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 625
+        width: 78
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ad67d700cac960800000000000000
+      internalID: 7623116459189575730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 514
+        width: 36
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda6f91e8b31c2f0800000000000000
+      internalID: -954416164518842935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 634
+        width: 19
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31aca56fb217ea0800000000000000
+      internalID: -5876867701656644625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 782
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024a3b2c26cc2800800000000000000
+      internalID: 589063544284791303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 788
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3ebf25b4510320800000000000000
+      internalID: 2522390403470998632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 803
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8759b21338134d210800000000000000
+      internalID: 1356763827280778616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 548
+        width: 24
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f92d28a5929ed470800000000000000
+      internalID: 8421329524698720758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 545
+        width: 140
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98198f38bbec58bd0800000000000000
+      internalID: -2628467502732504695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 779
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a04a94ad9a3f0a0800000000000000
+      internalID: -6848943853296940511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 763
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273896a3cbdc5d350800000000000000
+      internalID: 6040960683504927602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 783
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4647afe09c1340f90800000000000000
+      internalID: -6988405982162684828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 782
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292566186ea79d190800000000000000
+      internalID: -7937177737831755118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 788
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b12e6862c1bc1c0800000000000000
+      internalID: -4482458052319896678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 790
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a1f33494b17f0d0800000000000000
+      internalID: -3389210193098237424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 691
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f450c47705290b530800000000000000
+      internalID: 3868752954207765839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 758
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e498ac8c0b024f560800000000000000
+      internalID: 7346532835803171150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 754
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39013a805cde4ef0800000000000000
+      internalID: -121917901418460865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 767
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935306c839a3c840800000000000000
+      internalID: 5243220452494758807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 767
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846d2949a25499b0800000000000000
+      internalID: -5074339993109044093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 770
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfedc5e7324fde20800000000000000
+      internalID: 3377491053397274562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 285
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e1a564b4e679480800000000000000
+      internalID: -8892517669637841363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 662
+        width: 144
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aca2a5b7fac15460800000000000000
+      internalID: 7228782042159426721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 753
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad0b271756c8eb50800000000000000
+      internalID: 6622761329401466283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 737
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d600097cbc0f0fb50800000000000000
+      internalID: 6625059809879130221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 752
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49f7ae6ca7caabc0800000000000000
+      internalID: -3770982194564564661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 721
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa98f4faa80dbc20800000000000000
+      internalID: 3223742438614539006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 591
+        width: 29
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97cbb653c5ff0320800000000000000
+      internalID: 2526508135300712349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 714
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453a87387b1416dd0800000000000000
+      internalID: -2494640462146002092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 718
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a382c15a953a5a0800000000000000
+      internalID: -6511262070570730882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 710
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f243bc1a36d59fc90800000000000000
+      internalID: -7135569452094245841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 582
+        width: 19
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3bce0a1a66ccd0800000000000000
+      internalID: -2538224679826801560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 582
+        width: 19
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552fb80a5b08def90800000000000000
+      internalID: -6922735534627622315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 557
+        width: 43
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eeb58460131cb10800000000000000
+      internalID: 1999933612582760056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 479
+        width: 208
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aea20314b3b99d0800000000000000
+      internalID: -2766552394922005992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 690
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686b3c0f5f4a4b220800000000000000
+      internalID: 2500805069310768774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 594
+        width: 13
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e00dc38bd6c3020800000000000000
+      internalID: 2322852145878011423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 667
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c5326dac4668f10800000000000000
+      internalID: 2271613884393806897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 686
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f6fe605297f400800000000000000
+      internalID: 357915569555961307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 690
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5c717dfed10e910800000000000000
+      internalID: 1864523161674433959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 691
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3395a9039eb6d7f0800000000000000
+      internalID: -588073162593955009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 695
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c03662029f00a0800000000000000
+      internalID: -6913146363988360012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 666
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f6d098c0193ae0800000000000000
+      internalID: -1569204541552397006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 667
+        width: 79
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e6f4622cb5fda0800000000000000
+      internalID: -5911612079945096542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 350
+        width: 408
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3437a0cdfc7f0c00800000000000000
+      internalID: 869050682406548541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 635
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2dd57f30acf1f90800000000000000
+      internalID: -6980638779017145690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 680
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568505d50479a6b00800000000000000
+      internalID: 822636184647784549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 502
+        width: 24
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd32fd4af0a64fcc0800000000000000
+      internalID: -3678198380231711779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 514
+        width: 19
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1731856671e010800000000000000
+      internalID: 1216383552698392455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 327
+        width: 40
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aab800d01ab8720800000000000000
+      internalID: 2849548266457770536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 675
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1334619db05f93900800000000000000
+      internalID: 664831851249419057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 671
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2c699bba933c760800000000000000
+      internalID: 7476883216081011453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 671
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328bcb58938b1fb10800000000000000
+      internalID: 2013593065607706659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 85
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51471ffda471c4650800000000000000
+      internalID: 6218370795843974165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 502
+        width: 19
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fa457903d032fa0800000000000000
+      internalID: -5826798990538789045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 657
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b991fe0f9f9d8a0800000000000000
+      internalID: -6279713392192545897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 658
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7251204c6743e250800000000000000
+      internalID: 5972696061081375355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 658
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7480263b1b532f0800000000000000
+      internalID: -993692758763354131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_86
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 654
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46d2ce6c8b481d50800000000000000
+      internalID: 6708194711494121036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 650
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6716d30d76c758290800000000000000
+      internalID: -7888762386952396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_88
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 648
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47de327b9b3a1930800000000000000
+      internalID: 4114666748379060046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_89
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 639
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a49958df1b48e90800000000000000
+      internalID: -7024293816364873087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 631
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c2440cca81eb60800000000000000
+      internalID: 7773647040667632153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 639
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d49884775c7d60800000000000000
+      internalID: 7889276805265543933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 646
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4602b8ef7e8189130800000000000000
+      internalID: 3573633689005531236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 647
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b074f05c61ec01450800000000000000
+      internalID: 6057568096004032267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 533
+        width: 170
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3efe434488c4600800000000000000
+      internalID: 453887488984867754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 635
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be9f8b8532e001b0800000000000000
+      internalID: -5692301209393717579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 604
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96ef6a8d08e8fc0800000000000000
+      internalID: -3490710993162573354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 623
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef5d0c64bb52b600800000000000000
+      internalID: 482548940547121130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 595
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3529060217e680800000000000000
+      internalID: -8725985935874507738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 607
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0859466a328549c80800000000000000
+      internalID: -8316925701707754112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 491
+        width: 27
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461007687dd0354f0800000000000000
+      internalID: -841313486063533724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 491
+        width: 21
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca9762503bf0f630800000000000000
+      internalID: 3958940257418189510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 614
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a98d64a05605120800000000000000
+      internalID: 2400529696201153121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 606
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57890b646da869c0800000000000000
+      internalID: -3933703627704006820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 618
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b831c0e1f75b82f0800000000000000
+      internalID: -969584598398715727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_105
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 604
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec86752ac22d180800000000000000
+      internalID: -9092155621944799528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_106
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 568
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a49dffb74e3744b0800000000000000
+      internalID: -5456323945651399516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_107
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 584
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a907d5c6745b3920800000000000000
+      internalID: 2971061248283052456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_108
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 468
+        width: 46
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61b6bc3cb3dfcd0800000000000000
+      internalID: -2522794504140155215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_109
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 572
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71acd4cba9f8adcf0800000000000000
+      internalID: -226710936481838569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 498
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090477e205a6c9a0800000000000000
+      internalID: -6213097204019361528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_111
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 560
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0b467a7c4e13e0800000000000000
+      internalID: -2081141888944239864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_112
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 555
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8612bf12758fc89e0800000000000000
+      internalID: -1617645113016901272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_113
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 561
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6db37b10f758fc0800000000000000
+      internalID: -3493246290610104589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_114
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 568
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885e54366e996bf0800000000000000
+      internalID: -330558935832569714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_115
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 570
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66e4e9cd0b51860800000000000000
+      internalID: 7500095216050661042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_116
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 253
+        width: 34
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee6d15c153942d0800000000000000
+      internalID: -3294043256696410560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_117
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 574
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46354989dec1e6d80800000000000000
+      internalID: -8255629260130856092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_118
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 575
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b63f3a204619d20800000000000000
+      internalID: 3283515565833153308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_119
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 578
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f1dd586c9afee0800000000000000
+      internalID: -1226495976440465516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_120
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 575
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d8a79f22aa95b0800000000000000
+      internalID: -5360794081139566526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_121
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 579
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0649ec3f8a9a990800000000000000
+      internalID: -7374177149746126674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_122
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 401
+        width: 22
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa099f46b29324340800000000000000
+      internalID: 4846499007544529066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_123
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 402
+        width: 19
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4d7a1ce0243d30800000000000000
+      internalID: 4410186133531348402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_124
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 396
+        width: 22
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef6be9a043cd54c0800000000000000
+      internalID: -4297063786945482770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_125
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 385
+        width: 22
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c41ce03e6d1981b0800000000000000
+      internalID: -5653955498082560823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_126
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 550
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a55af2eb3a11bf0800000000000000
+      internalID: -355322858347079102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_127
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 543
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae71ade4c4c840510800000000000000
+      internalID: 1514489634071648234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_128
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 559
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb11bcc09fddf4e0800000000000000
+      internalID: -1946153650951742527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_129
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 549
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e191f7200b0e4f0c0800000000000000
+      internalID: -4542759077549237986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_130
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 367
+        width: 73
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c01b71431bc5a0800000000000000
+      internalID: -6500080465220680423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_131
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 137
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48acd368b2193d20800000000000000
+      internalID: 3258656388537952332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_132
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 492
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79926b174951704d0800000000000000
+      internalID: -3168540085524747881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_133
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 531
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309efa6e0593b5e20800000000000000
+      internalID: 3340326568255809795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_134
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 504
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a7c98309040b90800000000000000
+      internalID: -7276681187122765598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_135
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 536
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec7398807b32b750800000000000000
+      internalID: 6319178581667970276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_136
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 537
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b0fc2596205b80800000000000000
+      internalID: -8408178082154762231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 474
+        width: 311
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01d623f4eedc300800000000000000
+      internalID: 274137176255303935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_138
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 508
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a5873fc05b91ff0800000000000000
+      internalID: -64821652391175633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_139
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 525
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede88e10afbf5a710800000000000000
+      internalID: 1704045085222014686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 123
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b282c5f358808aa0800000000000000
+      internalID: -6160774396056010063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_141
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 224
+        width: 249
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c59a8c7a1df52c0800000000000000
+      internalID: -4440600189007733741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_142
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 265
+        width: 102
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d60e705191c770800000000000000
+      internalID: 8629338135916368121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_143
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 401
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6983131f9eb81030800000000000000
+      internalID: 3465729503690721646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_144
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 317
+        width: 20
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d8edc4687d6b50800000000000000
+      internalID: 6588054204259553735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_145
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 317
+        width: 22
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162071a34c17ae880800000000000000
+      internalID: -8580921052398943647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_146
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 474
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b46549c1f021eb00800000000000000
+      internalID: 856001627013080240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_147
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 480
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5637d5ef7849f80800000000000000
+      internalID: -8100700303173392944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_148
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 485
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfb6bc74d86ed7f0800000000000000
+      internalID: -585915639676878909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_149
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 257
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b2642ea83b16190800000000000000
+      internalID: -7970892456385959117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_150
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 455
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae1c6d739a93270800000000000000
+      internalID: 8230795851287620142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_151
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 429
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b2f2b70f859ff30800000000000000
+      internalID: 4609813483472497561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_152
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 463
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4b1182fd146e050800000000000000
+      internalID: 5829419194383447219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_153
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 467
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b38bdbd6fd1f80800000000000000
+      internalID: -8134073927820134117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_154
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 443
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d983a915dfbcff0800000000000000
+      internalID: -14639646844084946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_155
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 449
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd0b24728c39ef00800000000000000
+      internalID: 1146514111134895600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_156
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 423
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da66b971b5db8a60800000000000000
+      internalID: 7677464948011068112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_157
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 245
+        width: 22
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab3aaf30db95640800000000000000
+      internalID: 5069290680369789583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_158
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 249
+        width: 22
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa32a0c8793326cd0800000000000000
+      internalID: -2566432111665208401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_159
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 424
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a365cdd2c57530ef0800000000000000
+      internalID: -143174709727701446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_160
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 361
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d16c360f9a753110800000000000000
+      internalID: 1240032095833448912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_161
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 251
+        width: 22
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a53be9c65b5b8f0800000000000000
+      internalID: -525314303395145088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_162
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 407
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcfe7b5fd43771d0800000000000000
+      internalID: -3353153263636644684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_163
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 401
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dc8b387f7c65e00800000000000000
+      internalID: 1033233030408883562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_164
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249797616586bbb0800000000000000
+      internalID: -4920598889459379165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_165
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 402
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed0453ddc909d20800000000000000
+      internalID: 3283296602248240810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_166
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 251
+        width: 28
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8df0bbb54a4f080800000000000000
+      internalID: -9154511428650018626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_167
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 392
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654cd69394f7ac090800000000000000
+      internalID: -8013452634479541162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_168
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 250
+        width: 27
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdf67ce3ef06da60800000000000000
+      internalID: 7698358084635655679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_169
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 372
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956289ed93d90100800000000000000
+      internalID: 74823544009287066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_170
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 383
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a5eac55afd5e60800000000000000
+      internalID: 7952787763389376053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_171
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 335
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0fcf3506c353510800000000000000
+      internalID: 1528194032985764030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_172
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 381
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b138b4aee01cec70800000000000000
+      internalID: 9001588372358574514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_173
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 250
+        width: 19
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827262b5a6d19670800000000000000
+      internalID: 8543845975249285770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_174
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 376
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28d3d5c4688b6ec0800000000000000
+      internalID: -3572611912991254483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_175
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 366
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2a6e08a6f40f70800000000000000
+      internalID: 9152711544380467720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_176
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf6fbfbaa7f20d10800000000000000
+      internalID: 2090505489786826684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_177
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 0
+        width: 96
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0c3d61d1b23e70800000000000000
+      internalID: 9093526110653386567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_178
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 367
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec07540125c15900800000000000000
+      internalID: 671534565052320996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_179
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 58
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae7ce342c271410800000000000000
+      internalID: 1447674339406637701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_180
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 142
+        width: 301
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4bbf2c4e131dd0800000000000000
+      internalID: -2516634454202823037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_181
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 339
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af251e4c9fecc1f0800000000000000
+      internalID: -1023179560715997275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_182
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 0
+        width: 88
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4da5e9adaf2bd60800000000000000
+      internalID: 7904656112855209129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_183
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 326
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d8250fbbdf85a0800000000000000
+      internalID: -6516748522310019492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_184
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 194
+        width: 39
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0339c0ad5b9c6aa0800000000000000
+      internalID: -6166382963345247474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_185
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 247
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d086d0a41cf9c0800000000000000
+      internalID: -3892213296928860232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_186
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 257
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58e52b1d59f09d0800000000000000
+      internalID: -2805859314955287073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_187
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 339
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e1270f5f60bc10800000000000000
+      internalID: 2067274682895294909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_188
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 189
+        width: 22
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da835099648f660800000000000000
+      internalID: 7419758009124433204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_189
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4f130e5e2d00e0800000000000000
+      internalID: -2302132853202268387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_190
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 73
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617cea0e7ba8ccf70800000000000000
+      internalID: 9208887860419020566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_191
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 305
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe0e75442e39c2e0800000000000000
+      internalID: -2105083025313362245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_192
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 129
+        width: 21
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c5422916bf28740800000000000000
+      internalID: 5152957320147524754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_193
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e30b907789f8ce0800000000000000
+      internalID: -1400733322057859499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_194
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 30
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b67f4b2ab977a0800000000000000
+      internalID: -6378862702014058132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_195
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 167
+        width: 22
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cce5ff26d7888910800000000000000
+      internalID: 1839869801778244802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_196
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 303
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9158f21a07a53440800000000000000
+      internalID: 4915018230054539675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d912a2a251b60de0800000000000000
+      internalID: -1367210468386399792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50fa37a1bc049cd0800000000000000
+      internalID: -2552401131657826214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_199
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 59
+        width: 121
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa09617e0c8770780800000000000000
+      internalID: -8716865783846235990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_200
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 280
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd44594a47feb1c0800000000000000
+      internalID: -4485876280384533046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_201
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 263
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6411b6c6b34ebe700800000000000000
+      internalID: 570800721665659206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_202
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab3e04a93cf7680800000000000000
+      internalID: -8755064083303908772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_203
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 185
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cbfb949ae9861c0800000000000000
+      internalID: -4510180576887587692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_204
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 258
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98fddcac258279f0800000000000000
+      internalID: -472168583995197285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_205
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 253
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540faeab8ae2ddb40800000000000000
+      internalID: 5466576824922992709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_206
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 238
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dbff7592640a0a0800000000000000
+      internalID: -6872415887983395561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_207
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 96
+        width: 38
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de38244896a06cd40800000000000000
+      internalID: 5604178234615956461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_208
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 74
+        width: 23
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec657bfed8ad7e0800000000000000
+      internalID: -1739922245312655735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_209
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 74
+        width: 22
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7776c644fcbb0840800000000000000
+      internalID: 5191450752820082554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_210
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 223
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3545c0f0f1a70e1d0800000000000000
+      internalID: -3323522251184384941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_211
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 48
+        width: 140
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304e00ecc85540680800000000000000
+      internalID: -8789806509480418301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_212
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 217
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11422c82c2e4665d0800000000000000
+      internalID: -3069680144437074927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_213
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 182
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea9b9d33e4448680800000000000000
+      internalID: -8753796032919528729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_214
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 63
+        width: 43
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ad8b75917b08d0800000000000000
+      internalID: -2879082649936354614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_215
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 99
+        width: 30
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aa9e77181543e40800000000000000
+      internalID: 5635218650251766423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_216
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 99
+        width: 17
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff4efb845880420800000000000000
+      internalID: 2596471732682686283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_217
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 223
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7fb24768df22c90800000000000000
+      internalID: -7195910500668147779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_218
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 214
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4980364d435cdb10800000000000000
+      internalID: 2007571125255571789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70eb4480f3c9c1c0800000000000000
+      internalID: -4482836516291485574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_220
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 191
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21d88e83219bf2c0800000000000000
+      internalID: -4396761029295943377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_221
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 199
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47db8535070bdf930800000000000000
+      internalID: 4178690025750838644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_222
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 190
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48de84fdbab3c6d70800000000000000
+      internalID: 9037664161597287812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_223
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 7
+        width: 22
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4231a668ad3492b0800000000000000
+      internalID: -5578766244919561652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_224
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5794bb92117fbedf0800000000000000
+      internalID: -149754509500135051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_225
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 155
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfc5fb8604095b50800000000000000
+      internalID: 6582296756543147955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_226
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 170
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1d31e32bacc820800000000000000
+      internalID: 2939912827357175582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_227
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 170
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f7187bb3ae798e0800000000000000
+      internalID: -1686621993224274139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_228
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 174
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cb7e0641b581990800000000000000
+      internalID: -7415076643382248432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_229
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 54
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc0a8b48c3658510800000000000000
+      internalID: 1550755358610951412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_230
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 131
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5c7c9dec008d4a0800000000000000
+      internalID: -6568499168102857247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_231
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 125
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725aa4c72d6c215a0800000000000000
+      internalID: -6551955900539951833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_232
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 0
+        width: 19
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2bc42ced80cc460800000000000000
+      internalID: 7263190051877335770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_233
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 0
+        width: 22
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d81feff1c01eff0800000000000000
+      internalID: -8712392717267557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_234
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 22
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8c99e081de06b0800000000000000
+      internalID: -5328090957527348386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_235
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 175
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390f5e2028bde7eb0800000000000000
+      internalID: -4720094007996845933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_236
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db57db04ad53f8c50800000000000000
+      internalID: 6669608784664294845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_237
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 36
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a655395a9fe12a0800000000000000
+      internalID: -6764695100727137733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_238
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8179ce26982e61250800000000000000
+      internalID: 5915164240295794456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_239
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b64d3fb9d3ebc0c0800000000000000
+      internalID: -4554296073799252295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_240
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 0
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e696aeccdf762940800000000000000
+      internalID: 5271041000220301031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_241
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 95
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef7605a52e6fe40800000000000000
+      internalID: 5689984056753126957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_242
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 79
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077e9551aa7f43650800000000000000
+      internalID: 6211862095925471088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_243
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 154
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf51c9fb2558e40800000000000000
+      internalID: 5658019489771813896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_244
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 0
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d5ef8074df08080800000000000000
+      internalID: -9187064758300418735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_245
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 67
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b514e97f335a1c920800000000000000
+      internalID: 3008867668676460891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_246
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 37
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d591e009599e760800000000000000
+      internalID: 7487680301424532782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_247
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 52
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3571bd1ddc7760800000000000000
+      internalID: 7457078202619739883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_248
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcc362d940504fe0800000000000000
+      internalID: -1206876422142702404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_249
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 23
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3aa3d07786a19d0800000000000000
+      internalID: -2802812957552368719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_250
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 48
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f211dc185705c60800000000000000
+      internalID: 7804867354584755969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_251
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 0
+        width: 140
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc31b97ed2fad50800000000000000
+      internalID: 6750664839214124429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_252
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b87eecd7c41af40800000000000000
+      internalID: 5737951503472626445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_253
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 6
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf1e8fb78879f90800000000000000
+      internalID: -6946933834157786267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Ruins (Group 0)-2048x1024-fmt12_254
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 20
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ed73d7fc524780800000000000000
+      internalID: -8700289310651456048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

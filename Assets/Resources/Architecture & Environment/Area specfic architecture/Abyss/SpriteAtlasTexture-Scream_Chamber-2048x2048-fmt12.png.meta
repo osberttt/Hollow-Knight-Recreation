@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: d11e1afc9a299cb428ef878c3492e79a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6861003486532194891
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_0
+  - first:
+      213: -5815846141402232330
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_1
+  - first:
+      213: -3019946185431639255
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_2
+  - first:
+      213: 7361289427046992611
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_3
+  - first:
+      213: -7765431030470025012
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_4
+  - first:
+      213: -3474257366143136048
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_5
+  - first:
+      213: -6216069293927915504
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_6
+  - first:
+      213: 7915044527349627450
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_7
+  - first:
+      213: 6248532724090265532
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_8
+  - first:
+      213: -5773589238315189587
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_9
+  - first:
+      213: 2062745332081330538
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_10
+  - first:
+      213: 4944983209516400382
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_11
+  - first:
+      213: -8870196375749644873
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_12
+  - first:
+      213: 7479544740961457641
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_13
+  - first:
+      213: 5910395098418595419
+    second: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1460
+        width: 166
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d771e15e273f50800000000000000
+      internalID: 6861003486532194891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1601
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9c4618fb6f94fa0800000000000000
+      internalID: -5815846141402232330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1033
+        width: 870
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b1d88d1fef616d0800000000000000
+      internalID: -3019946185431639255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 435
+        height: 1118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea89fb6bbd882660800000000000000
+      internalID: 7361289427046992611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 641
+        width: 369
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0e90dee95ab3490800000000000000
+      internalID: -7765431030470025012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 723
+        width: 278
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de01c83555f8cfc0800000000000000
+      internalID: -3474257366143136048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 970
+        width: 245
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a63c49e51cb9a0800000000000000
+      internalID: -6216069293927915504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 505
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3af21adf03e7dd60800000000000000
+      internalID: 7915044527349627450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 0
+        width: 777
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfddca086f37b650800000000000000
+      internalID: 6248532724090265532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 375
+        width: 434
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa74337d2710efa0800000000000000
+      internalID: -5773589238315189587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 629
+        width: 290
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698dcc53f750ac10800000000000000
+      internalID: 2062745332081330538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 263
+        width: 199
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efefe77870c10a440800000000000000
+      internalID: 4944983209516400382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 0
+        width: 222
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd2c7f746bb6e480800000000000000
+      internalID: -8870196375749644873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e516a6405eacc760800000000000000
+      internalID: 7479544740961457641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Scream_Chamber-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 48
+        width: 205
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5643730701f50250800000000000000
+      internalID: 5910395098418595419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

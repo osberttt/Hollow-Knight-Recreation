@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 5ec98f544a80f204d81bfde4d85dac47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5412168848453976995
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_0
+  - first:
+      213: -2685940336256467238
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_1
+  - first:
+      213: 6352895554508342742
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_2
+  - first:
+      213: 3495647348777143539
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_3
+  - first:
+      213: -4424329858529137992
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_4
+  - first:
+      213: 4233795096108618578
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_5
+  - first:
+      213: 4988995264033306130
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_6
+  - first:
+      213: 8628318711006987184
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_7
+  - first:
+      213: 385293017961265086
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_8
+  - first:
+      213: -8987783516715733699
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_9
+  - first:
+      213: -3807708069274522899
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_10
+  - first:
+      213: 7259511151184107045
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_11
+  - first:
+      213: -5738668601514260748
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_12
+  - first:
+      213: 2412686903267875111
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_13
+  - first:
+      213: -5392067654399063937
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_14
+  - first:
+      213: -8198587605112568685
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_15
+  - first:
+      213: -4284696203891356446
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_16
+  - first:
+      213: -7936576186438131293
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_17
+  - first:
+      213: 7349413859488415519
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_18
+  - first:
+      213: -4384390177401443879
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_19
+  - first:
+      213: 8828313585440805518
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_20
+  - first:
+      213: -4378592763810606401
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_21
+  - first:
+      213: -7486951489352778405
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_22
+  - first:
+      213: 7042950426793276727
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_23
+  - first:
+      213: -5478057523931032674
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_24
+  - first:
+      213: -1984357048972293954
+    second: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1521
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c37737b1d14e4b0800000000000000
+      internalID: -5412168848453976995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1665
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3a81be7f99bad0800000000000000
+      internalID: -2685940336256467238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1464
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5c0a509d40a2850800000000000000
+      internalID: 6352895554508342742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1660
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcc5e33eb8038030800000000000000
+      internalID: 3495647348777143539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1271
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba673d4f6f9992c0800000000000000
+      internalID: -4424329858529137992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1383
+        width: 246
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2535853553671ca30800000000000000
+      internalID: 4233795096108618578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1185
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216bfc282c87c3540800000000000000
+      internalID: 4988995264033306130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1304
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b38d622722fdb770800000000000000
+      internalID: 8628318711006987184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 971
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7f40e55f5d85500800000000000000
+      internalID: 385293017961265086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1112
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d2c08c28af44380800000000000000
+      internalID: -8987783516715733699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 919
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae0826fad482bc0800000000000000
+      internalID: -3807708069274522899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 992
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d051fde6feb460800000000000000
+      internalID: 7259511151184107045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 599
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f60e0bcf472c50b0800000000000000
+      internalID: -5738668601514260748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 778
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729d48f94f59b7120800000000000000
+      internalID: 2412686903267875111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 638
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f788ba669078b25b0800000000000000
+      internalID: -5392067654399063937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 828
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3944859d204c83e80800000000000000
+      internalID: -8198587605112568685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec479cf083b984c0800000000000000
+      internalID: -4284696203891356446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 365
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e78a120e9bd190800000000000000
+      internalID: -7936576186438131293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 503
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb32267fc5ef560800000000000000
+      internalID: 7349413859488415519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 373
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96647fc548723c0800000000000000
+      internalID: -4384390177401443879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 424
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8254f97e68748a70800000000000000
+      internalID: 8828313585440805518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 235
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb219f0841d1c33c0800000000000000
+      internalID: -4378592763810606401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 215
+        width: 60
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dbb8ab941091890800000000000000
+      internalID: -7486951489352778405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735f2b719169db160800000000000000
+      internalID: 7042950426793276727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935feab4b70af3b0800000000000000
+      internalID: -5478057523931032674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Zap_Tank-2048x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1
+        width: 245
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c67c07c52674e0800000000000000
+      internalID: -1984357048972293954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 35da25041a332b5489747cda0a02cb7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2401172900929431012
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_0
+  - first:
+      213: 3396284105401695077
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_1
+  - first:
+      213: 4745758455619423004
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_2
+  - first:
+      213: 2336274343643806768
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_3
+  - first:
+      213: 2929899774560079594
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_4
+  - first:
+      213: -155970627865171346
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_5
+  - first:
+      213: 2440106923028435350
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_6
+  - first:
+      213: 5084160235294659197
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_7
+  - first:
+      213: -8082720231365679197
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_8
+  - first:
+      213: 4944251772618868247
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_9
+  - first:
+      213: 5148148466032622088
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_10
+  - first:
+      213: 5742948967841120733
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_11
+  - first:
+      213: 848752285438561863
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_12
+  - first:
+      213: -9146823332560924041
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_13
+  - first:
+      213: 6646474013003356258
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_14
+  - first:
+      213: -6174941806487356022
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_15
+  - first:
+      213: -1160761622378285786
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_16
+  - first:
+      213: -4337250521103960241
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_17
+  - first:
+      213: -1698018694999031706
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_18
+  - first:
+      213: 2750084042239098498
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_19
+  - first:
+      213: -6361385638289732599
+    second: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 788
+        width: 297
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9ec3f7f15daed0800000000000000
+      internalID: -2401172900929431012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 742
+        width: 298
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf5ca4666022f20800000000000000
+      internalID: 3396284105401695077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 725
+        width: 298
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8009db225cd140800000000000000
+      internalID: 4745758455619423004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 679
+        width: 297
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c7fbe232d1c6020800000000000000
+      internalID: 2336274343643806768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 816
+        width: 297
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee862a525819a820800000000000000
+      internalID: 2929899774560079594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 297
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aa3b25a81e5ddf0800000000000000
+      internalID: -155970627865171346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 297
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d41971500dd120800000000000000
+      internalID: 2440106923028435350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 653
+        width: 297
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7297e50cc09e8640800000000000000
+      internalID: 5084160235294659197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 523
+        width: 298
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7e59e06c864df80800000000000000
+      internalID: -8082720231365679197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 588
+        width: 297
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160b0b9ac28d9440800000000000000
+      internalID: 4944251772618868247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 228
+        width: 529
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ab8d8f0c5e17740800000000000000
+      internalID: 5148148466032622088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 542
+        width: 297
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1cd57a8ad03bf40800000000000000
+      internalID: 5742948967841120733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 652
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ecddbe4bf57cb00800000000000000
+      internalID: 848752285438561863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 782
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772937714a4ff0180800000000000000
+      internalID: -9146823332560924041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 346
+        width: 298
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2681ee976e40d3c50800000000000000
+      internalID: 6646474013003356258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 488
+        width: 301
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbc9ba4233e4aa0800000000000000
+      internalID: -6174941806487356022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 130
+        width: 256
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6257c35547524efe0800000000000000
+      internalID: -1160761622378285786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 315
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4778bb71adfec3c0800000000000000
+      internalID: -4337250521103960241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 579
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604c9e4efc6f68e0800000000000000
+      internalID: -1698018694999031706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 0
+        width: 297
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eb128add24a2620800000000000000
+      internalID: 2750084042239098498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Mapper_House (Group 0)-2048x1024-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 297
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c087e4771d7b7a0800000000000000
+      internalID: -6361385638289732599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

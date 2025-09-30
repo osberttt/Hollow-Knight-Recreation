@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: 8eee8b82aa91a9f4882c53b939be922c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1627800628873753854
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_0
+  - first:
+      213: -8724739996034170112
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_1
+  - first:
+      213: -3725228009241862738
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_2
+  - first:
+      213: -4285733445690739618
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_3
+  - first:
+      213: 1600198664886905583
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_4
+  - first:
+      213: 3333175955381583692
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_5
+  - first:
+      213: -282381437478207299
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_6
+  - first:
+      213: -2342417272949272516
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_7
+  - first:
+      213: -3629209593383678724
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_8
+  - first:
+      213: -5305500950708129441
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_9
+  - first:
+      213: -305804010326696603
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_10
+  - first:
+      213: -2654532481292055741
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_11
+  - first:
+      213: -8100572042210631350
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_12
+  - first:
+      213: 520342538958394772
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_13
+  - first:
+      213: 1744629977340317967
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_14
+  - first:
+      213: 7339833561176508090
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_15
+  - first:
+      213: -8598721541730458535
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_16
+  - first:
+      213: -5998448584877755443
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_17
+  - first:
+      213: -1200904580647211387
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_18
+  - first:
+      213: 2503470460082667763
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_19
+  - first:
+      213: -7159272351473317788
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_20
+  - first:
+      213: 6729146347032327087
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_21
+  - first:
+      213: 7415135243578189417
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_22
+  - first:
+      213: 8908214174593188918
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_23
+  - first:
+      213: -8409065935012181476
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_24
+  - first:
+      213: 5960208319791545705
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_25
+  - first:
+      213: 1202346415648450341
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_26
+  - first:
+      213: 5141927645491175702
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_27
+  - first:
+      213: -1894194129260763965
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_28
+  - first:
+      213: 7733397506874705440
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_29
+  - first:
+      213: -6226005443760980827
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_30
+  - first:
+      213: -7699966290004141906
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_31
+  - first:
+      213: 3671042044293594945
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_32
+  - first:
+      213: 3868332097929922587
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_33
+  - first:
+      213: 1565325281528867589
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_34
+  - first:
+      213: 7592430113651685628
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_35
+  - first:
+      213: 2471086277024224578
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_36
+  - first:
+      213: 3490042129093772823
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_37
+  - first:
+      213: -7862999366055837702
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_38
+  - first:
+      213: 6138817139619319856
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_39
+  - first:
+      213: -3725777655978228004
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_40
+  - first:
+      213: 2076434332914493872
+    second: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1811
+        width: 457
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b82d6d3f3e869e0800000000000000
+      internalID: -1627800628873753854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1285
+        width: 98
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0038db2033f7be680800000000000000
+      internalID: -8724739996034170112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1804
+        width: 253
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9dc9dcd45d4cc0800000000000000
+      internalID: -3725228009241862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1519
+        width: 167
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54b79f43240684c0800000000000000
+      internalID: -4285733445690739618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1537
+        width: 224
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea63ae153c053610800000000000000
+      internalID: 1600198664886905583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1604
+        width: 135
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f746a1fd1d14e20800000000000000
+      internalID: 3333175955381583692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1172
+        width: 201
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db082f72497c41cf0800000000000000
+      internalID: -282381437478207299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1686
+        width: 383
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c309e12a6ef0e7fd0800000000000000
+      internalID: -2342417272949272516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1264
+        width: 119
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc0dea6a1572adc0800000000000000
+      internalID: -3629209593383678724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 149
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517b8dbef21f56b0800000000000000
+      internalID: -5305500950708129441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1220
+        width: 122
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d56917fd091cbf0800000000000000
+      internalID: -305804010326696603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 249
+        width: 605
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bc9d7c5c4392bd0800000000000000
+      internalID: -2654532481292055741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1579
+        width: 259
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41239275acf49f80800000000000000
+      internalID: -8100572042210631350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1284
+        width: 99
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d32448c0a83700800000000000000
+      internalID: 520342538958394772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1319
+        width: 98
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f011edf88bb263810800000000000000
+      internalID: 1744629977340317967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1458
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab68a6c5cb35cd560800000000000000
+      internalID: 7339833561176508090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1201
+        width: 98
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95428a6d0543ba880800000000000000
+      internalID: -8598721541730458535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 864
+        width: 518
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3baee0bca31cca0800000000000000
+      internalID: -5998448584877755443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1308
+        width: 66
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e226585a7855fe0800000000000000
+      internalID: -1200904580647211387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1242
+        width: 408
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f049e69e1d1eb220800000000000000
+      internalID: 2503470460082667763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1335
+        width: 281
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46848205ab725ac90800000000000000
+      internalID: -7159272351473317788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 606
+        width: 129
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ba7833fab26d50800000000000000
+      internalID: 6729146347032327087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96625fa873ad7e660800000000000000
+      internalID: 7415135243578189417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1201
+        width: 472
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6340ab3189550ab70800000000000000
+      internalID: 8908214174593188918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 479
+        width: 241
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac2c2d51ffc4b80800000000000000
+      internalID: -8409065935012181476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 158
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96db08863e9e6b250800000000000000
+      internalID: 5960208319791545705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 607
+        width: 133
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527a0b9d1b79fa010800000000000000
+      internalID: 1202346415648450341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 572
+        width: 113
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611234253fbcb5740800000000000000
+      internalID: 5141927645491175702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 912
+        width: 99
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c428cda97876b5e0800000000000000
+      internalID: -1894194129260763965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 452
+        width: 114
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02688282f0c825b60800000000000000
+      internalID: 7733397506874705440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 358
+        width: 166
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac7af22909c899a0800000000000000
+      internalID: -6226005443760980827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 632
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea812d59479342590800000000000000
+      internalID: -7699966290004141906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 156
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb4ad0a4922f230800000000000000
+      internalID: 3671042044293594945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 366
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ca5a3c831fa530800000000000000
+      internalID: 3868332097929922587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 482
+        width: 509
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b6773dc0729b510800000000000000
+      internalID: 1565325281528867589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 143
+        width: 354
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8ff2246fabd5960800000000000000
+      internalID: 7592430113651685628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 56
+        width: 195
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451f5760ef0b4220800000000000000
+      internalID: 2471086277024224578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 0
+        width: 163
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71648cb43de1f6030800000000000000
+      internalID: 3490042129093772823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 121
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affbe1d8cb301e290800000000000000
+      internalID: -7862999366055837702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 322
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030d614e9a5713550800000000000000
+      internalID: 6138817139619319856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 143
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6845f36f06b4cc0800000000000000
+      internalID: -3725777655978228004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Loom (Group 0)-2048x2048-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 0
+        width: 198
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92bcc360af0dc10800000000000000
+      internalID: 2076434332914493872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

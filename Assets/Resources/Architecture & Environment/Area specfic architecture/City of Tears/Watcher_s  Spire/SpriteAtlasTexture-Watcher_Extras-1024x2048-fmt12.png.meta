@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: c1e4a98ab4ebff04baa2e2ed3fd12e21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -635768869760669442
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_0
+  - first:
+      213: -197524698272447619
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_1
+  - first:
+      213: 933386871951144150
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_2
+  - first:
+      213: -7899518441236754000
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_3
+  - first:
+      213: 5810220828065547028
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_4
+  - first:
+      213: 2477276553086731020
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_5
+  - first:
+      213: 7922475571014205867
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_6
+  - first:
+      213: 3166373441495988193
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_7
+  - first:
+      213: 2275277896509990855
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_8
+  - first:
+      213: 517779606374833032
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_9
+  - first:
+      213: -8039968056551269829
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_10
+  - first:
+      213: 30929005710967931
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_11
+  - first:
+      213: -6338575231863941011
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_12
+  - first:
+      213: 761774686197181316
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_13
+  - first:
+      213: -164979706223702208
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_14
+  - first:
+      213: 4775550393407430073
+    second: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1678
+        width: 350
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e9a6d49b4d27f0800000000000000
+      internalID: -635768869760669442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1662
+        width: 227
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ca1d5550424df0800000000000000
+      internalID: -197524698272447619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1620
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d439ac2a6e04fc00800000000000000
+      internalID: 933386871951144150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1763
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19f65c4d54f5290800000000000000
+      internalID: -7899518441236754000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 526
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134c6b2f0d02a050800000000000000
+      internalID: 5810220828065547028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1504
+        width: 540
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03832d56ed016220800000000000000
+      internalID: 2477276553086731020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1357
+        width: 191
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba103088e8942fd60800000000000000
+      internalID: 7922475571014205867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 768
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7799e6ed731fb20800000000000000
+      internalID: 3166373441495988193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1013
+        width: 293
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a6c22139639f10800000000000000
+      internalID: 2275277896509990855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 248
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd9e50fc58f2700800000000000000
+      internalID: 517779606374833032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 774
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a16cf66ab4c6090800000000000000
+      internalID: -8039968056551269829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 355
+        width: 260
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7488ae44c1ed6000800000000000000
+      internalID: 30929005710967931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 582
+        width: 215
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6819aae86bd808a0800000000000000
+      internalID: -6338575231863941011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 254
+        width: 55
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48beaa18a0e529a00800000000000000
+      internalID: 761774686197181316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 175
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f436fc4dfd5bdf0800000000000000
+      internalID: -164979706223702208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Watcher_Extras-1024x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 55
+        width: 121
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd606e7c9264240800000000000000
+      internalID: 4775550393407430073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

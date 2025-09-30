@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: f340335e07b0758498e517ce329105b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2204775262610305036
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_0
+  - first:
+      213: -8710943192082649311
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_1
+  - first:
+      213: 58581427224656080
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_2
+  - first:
+      213: 6067538461674713003
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_3
+  - first:
+      213: 6278738164425768903
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_4
+  - first:
+      213: -2006326637427743443
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_5
+  - first:
+      213: -7003453264801441629
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_6
+  - first:
+      213: -3806385850082044504
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_7
+  - first:
+      213: 5557990645055442267
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_8
+  - first:
+      213: 1670304736841541949
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_9
+  - first:
+      213: 3548430468391608412
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_10
+  - first:
+      213: 5655724540882663971
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_11
+  - first:
+      213: 5140492111382593584
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_12
+  - first:
+      213: -4657991109567717921
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_13
+  - first:
+      213: 6275605343025744963
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_14
+  - first:
+      213: 120846879626302681
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_15
+  - first:
+      213: 6532612610356511893
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_16
+  - first:
+      213: -9105729393811915655
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_17
+  - first:
+      213: 4649235058216873280
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_18
+  - first:
+      213: -5168812616643461836
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_19
+  - first:
+      213: 7775844654485766623
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_20
+  - first:
+      213: 7424175947240462755
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_21
+  - first:
+      213: 5006966623168734928
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_22
+  - first:
+      213: 1687624375377199385
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_23
+  - first:
+      213: -7244003371222792183
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_24
+  - first:
+      213: 793536181783718598
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_25
+  - first:
+      213: 2220413161702156696
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_26
+  - first:
+      213: 4138723971085103263
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_27
+  - first:
+      213: -6945559601940642841
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_28
+  - first:
+      213: -8703394431972483946
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_29
+  - first:
+      213: -4232395472056913837
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_30
+  - first:
+      213: -3043233560595397159
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_31
+  - first:
+      213: 3392423902698931870
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_32
+  - first:
+      213: -473044118256684068
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_33
+  - first:
+      213: -4699835185688288955
+    second: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 737
+        width: 658
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b4718b6fe89e10800000000000000
+      internalID: 2204775262610305036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1466
+        width: 739
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6e41c1538c1780800000000000000
+      internalID: -8710943192082649311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 368
+        width: 506
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d839286f7f10d000800000000000000
+      internalID: 58581427224656080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1495
+        width: 111
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf242d651a343450800000000000000
+      internalID: 6067538461674713003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1454
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf3948281f822750800000000000000
+      internalID: 6278738164425768903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 512
+        height: 1369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2527b0ad881824e0800000000000000
+      internalID: -2006326637427743443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 982
+        width: 102
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8d57e8c5cbece90800000000000000
+      internalID: -7003453264801441629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1140
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a559c78c300d2bc0800000000000000
+      internalID: -3806385850082044504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 869
+        width: 190
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d497f4b03f12d40800000000000000
+      internalID: 5557990645055442267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 774
+        width: 182
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39a71afe4d1e2710800000000000000
+      internalID: 1670304736841541949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 0
+        width: 167
+        height: 1308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50a7aae5be8e3130800000000000000
+      internalID: 3548430468391608412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 727
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a35ce218b2d7e40800000000000000
+      internalID: 5655724540882663971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 885
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03048adf652b65740800000000000000
+      internalID: 5140492111382593584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 955
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddd943d3cd7b5fb0800000000000000
+      internalID: -4657991109567717921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 967
+        width: 44
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cc7955fcd671750800000000000000
+      internalID: 6275605343025744963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 669
+        width: 198
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41754c8955da100800000000000000
+      internalID: 120846879626302681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 660
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594898fce8088aa50800000000000000
+      internalID: 6532612610356511893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 460
+        width: 148
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf10d4c53f1a180800000000000000
+      internalID: -9105729393811915655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 676
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d2f4a17a6658040800000000000000
+      internalID: 4649235058216873280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 324
+        width: 223
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43db86a8f40b448b0800000000000000
+      internalID: -5168812616643461836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 474
+        width: 169
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd18e3bd38959eb60800000000000000
+      internalID: 7775844654485766623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 0
+        width: 307
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9544560b8f70760800000000000000
+      internalID: 7424175947240462755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 495
+        width: 145
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a530ad915c7540800000000000000
+      internalID: 5006966623168734928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 394
+        width: 52
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91106a09d65ab6710800000000000000
+      internalID: 1687624375377199385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 296
+        width: 536
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90888827051287b90800000000000000
+      internalID: -7244003371222792183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 345
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca63a7f3f4330b00800000000000000
+      internalID: 793536181783718598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 0
+        width: 184
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899ebdd910e70de10800000000000000
+      internalID: 2220413161702156696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 250
+        width: 583
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90fbe71683bf6930800000000000000
+      internalID: 4138723971085103263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 121
+        width: 208
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e34608575a6c9f90800000000000000
+      internalID: -6945559601940642841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 192
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cda2e60e4573780800000000000000
+      internalID: -8703394431972483946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 0
+        width: 215
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350731b0eb28345c0800000000000000
+      internalID: -4232395472056913837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d50a2c433344c5d0800000000000000
+      internalID: -3043233560595397159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 275
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e960aefc09f441f20800000000000000
+      internalID: 3392423902698931870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 143
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f83871e86f69f0800000000000000
+      internalID: -473044118256684068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Nightmare_Tent-4096x2048-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 0
+        width: 1307
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ea26acc4d6ceb0800000000000000
+      internalID: -4699835185688288955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

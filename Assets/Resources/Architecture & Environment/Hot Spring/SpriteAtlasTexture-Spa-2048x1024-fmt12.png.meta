@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: c5e29932ff5255342beb0c4aa31062e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5180604223355386272
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_0
+  - first:
+      213: 8590674124019396475
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_1
+  - first:
+      213: -2026743285572468921
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_2
+  - first:
+      213: 3663196844148824833
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_3
+  - first:
+      213: 3855076342710310853
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_4
+  - first:
+      213: 3293267196776561896
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_5
+  - first:
+      213: -1078668388076163106
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_6
+  - first:
+      213: -5021594128944354178
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_7
+  - first:
+      213: 8393860899949509765
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_8
+  - first:
+      213: -2285908456614950404
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_9
+  - first:
+      213: 450428901346961977
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_10
+  - first:
+      213: -2826867392113163729
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_11
+  - first:
+      213: -1089905295798181645
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_12
+  - first:
+      213: -495396137476141054
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_13
+  - first:
+      213: 1345784510864291521
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_14
+  - first:
+      213: 6579400666003604115
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_15
+  - first:
+      213: 1552614099896047224
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_16
+  - first:
+      213: 7970615056413803344
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_17
+  - first:
+      213: -1284525412602735505
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_18
+  - first:
+      213: 7775671907999663578
+    second: SpriteAtlasTexture-Spa-2048x1024-fmt12_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 185
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a97cf6d71435e740800000000000000
+      internalID: 5180604223355386272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 637
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe057b994383770800000000000000
+      internalID: 8590674124019396475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 545
+        width: 212
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f7b8c48bf8fd3e0800000000000000
+      internalID: -2026743285572468921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 572
+        width: 154
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b92dd0f1a46d230800000000000000
+      internalID: 3663196844148824833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 385
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79245328bff7530800000000000000
+      internalID: 3855076342710310853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 661
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec3056211904bd20800000000000000
+      internalID: 3293267196776561896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 319
+        width: 154
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe64ae0dcc701f0800000000000000
+      internalID: -1078668388076163106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 258
+        width: 426
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca51aceb6bf4ab0800000000000000
+      internalID: -5021594128944354178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 398
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf783140cfc7470800000000000000
+      internalID: 8393860899949509765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 400
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf98766be52d640e0800000000000000
+      internalID: -2285908456614950404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 135
+        width: 206
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aea5503be304600800000000000000
+      internalID: 450428901346961977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 161
+        width: 222
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22c5f19513f4c8d0800000000000000
+      internalID: -2826867392113163729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 377
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0e12578e0efd0f0800000000000000
+      internalID: -1089905295798181645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 357
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20052a276dfff19f0800000000000000
+      internalID: -495396137476141054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 126
+        width: 1124
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f942e1ef2da210800000000000000
+      internalID: 1345784510864291521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 470
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3920d1ceb0abe4b50800000000000000
+      internalID: 6579400666003604115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 157
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87611993c4efb8510800000000000000
+      internalID: 1552614099896047224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 104
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053cce6e9205d9e60800000000000000
+      internalID: 7970615056413803344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641ad461f27c2ee0800000000000000
+      internalID: -1284525412602735505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Spa-2048x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 264
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5cd4e276cb8eb60800000000000000
+      internalID: 7775671907999663578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
